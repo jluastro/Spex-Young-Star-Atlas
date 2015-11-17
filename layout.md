@@ -1,10 +1,10 @@
 untitled.tex
 section_Introduction_Fubar_We_want__.tex
 section_Observations_All_of_the__.tex
-figures/old_new_dualplt/old_new_dualplt.png
 section_Observations_part2.tex
 section_table.tex
 section_Observations_part3.tex
-figures/old_new_dualplt1/old_new_dualplt1.png
+section_Data_Reduction_and_Analysis_outline.tex
 section_Data_Reduction_and_Analysis__.tex
+figures/old_new_dualplt/old_new_dualplt.png
 section_Comparison_with_Models_section__.tex

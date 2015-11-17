@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 SEP 2015 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 NOV 2015 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,7 +6,7 @@ entering extended mode
 (./authorea_paper.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/preamble.tex
+(/Users/corey/work/git/Spex-Young-Star-Atlas/preamble.tex
 (/usr/local/texlive/2015/texmf-dist/tex/latex/aastex/aastex.cls
 Document Class: aastex 2005/06/22 5.2/AAS markup document class
 Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
@@ -174,8 +174,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 ))
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/header.tex)
-(./authorea_paper.aux)
+(/Users/corey/work/git/Spex-Young-Star-Atlas/header.tex) (./authorea_paper.aux)
 \openout1 = `authorea_paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -190,7 +189,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count109
@@ -253,17 +251,34 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 AAS preprint substyle, v5.2 <12 Dec 2003>.
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/untitled.tex
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/title.tex)
+(/Users/corey/work/git/Spex-Young-Star-Atlas/untitled.tex
+(/Users/corey/work/git/Spex-Young-Star-Atlas/title.tex)
 
 Package natbib Warning: Citation `Kraus2010' on page 1 undefined on input line 
 3.
 
+
+Package natbib Warning: Citation `Duch_ne_2013' on page 1 undefined on input li
+ne 3.
+
 )
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/section_Introduction_We_want_
-to__.tex)
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/section_Observations_All_of_t
-he__.tex
+(/Users/corey/work/git/Spex-Young-Star-Atlas/section_Introduction_Fubar_We_want
+__.tex
+
+Package natbib Warning: Citation `Rayner_2003' on page 1 undefined on input lin
+e 5.
+
+
+Package natbib Warning: Citation `Vacca_2003' on page 1 undefined on input line
+ 6.
+
+)
+(/Users/corey/work/git/Spex-Young-Star-Atlas/section_Observations_All_of_the__.
+tex
+
+Package natbib Warning: Citation `Rayner_1998' on page 1 undefined on input lin
+e 5.
+
 
 Package natbib Warning: Citation `RAYER_SPEX_OBSERVING_MANUAL_or_Spextool_2015_
 manual' on page 1 undefined on input line 7.
@@ -273,69 +288,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-LaTeX Font Info:    Try loading font information for U+lasy on input line 13.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 12.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+LaTeX Font Info:    Try loading font information for U+msa on input line 12.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 12.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 Package natbib Warning: Citation `Cushing_2004' on page 1 undefined on input li
-ne 23.
+ne 22.
 
 
 Package natbib Warning: Citation `Joyce_1992' on page 1 undefined on input line
- 23.
+ 22.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
 
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
 
 Package natbib Warning: Citation `Cushing_2004' on page 2 undefined on input li
-ne 30.
+ne 29.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
 
 Package natbib Warning: Citation `Spextool_Manual_Cushing_2015' on page 2 undef
-ined on input line 33.
+ined on input line 32.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 )
-</Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualplt/old_n
-ew_dualplt.png, id=11, 2035.605pt x 1648.1575pt>
-File: /Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualplt/
-old_new_dualplt.png Graphic file (type png)
+</Users/corey/work/git/Spex-Young-Star-Atlas/figures/old_new_dualplt/old_new_du
+alplt.png, id=11, 2035.605pt x 1648.1575pt>
+File: /Users/corey/work/git/Spex-Young-Star-Atlas/figures/old_new_dualplt/old_n
+ew_dualplt.png Graphic file (type png)
 
-<use /Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualplt/o
-ld_new_dualplt.png>
-Package pdftex.def Info: /Users/corey/work/authorea/Spex-Young-Star-Atlas/figur
-es/old_new_dualplt/old_new_dualplt.png used on input line 18.
+<use /Users/corey/work/git/Spex-Young-Star-Atlas/figures/old_new_dualplt/old_ne
+w_dualplt.png>
+Package pdftex.def Info: /Users/corey/work/git/Spex-Young-Star-Atlas/figures/ol
+d_new_dualplt/old_new_dualplt.png used on input line 18.
 (pdftex.def)             Requested size: 501.84921pt x 702.63306pt.
 
 Overfull \hbox (32.09422pt too wide) in paragraph at lines 18--19
@@ -343,17 +357,15 @@ Overfull \hbox (32.09422pt too wide) in paragraph at lines 18--19
  []
 
 
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualplt/capti
-on.tex)
+(/Users/corey/work/git/Spex-Young-Star-Atlas/figures/old_new_dualplt/caption.te
+x)
 
 LaTeX Warning: Float too large for page by 150.04398pt on input line 21.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/section_Observations_part2.te
-x
+(/Users/corey/work/git/Spex-Young-Star-Atlas/section_Observations_part2.tex
 
 Package natbib Warning: Citation `binary_guy' on page 2 undefined on input line
  6.
@@ -362,144 +374,1157 @@ Package natbib Warning: Citation `binary_guy' on page 2 undefined on input line
 Package natbib Warning: Citation `disk_guy' on page 2 undefined on input line 6
 .
 
+) (/Users/corey/work/git/Spex-Young-Star-Atlas/section_table.tex
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ... 2MASS J12350095-2642454 & HD 109454 & HIP_
+                                                  61412_7_1_15_merge.fits & ...
 
-Overfull \hbox (426.66238pt too wide) in paragraph at lines 9--61
-[][] 
- []
+? 
+! Double subscript.
+l.4 ...12350095-2642454 & HD 109454 & HIP_61412_7_
+                                                  1_15_merge.fits & -- & -- ...
 
+? 
+! Double subscript.
+l.4 ...350095-2642454 & HD 109454 & HIP_61412_7_1_
+                                                  15_merge.fits & -- & -- & ...
 
-LaTeX Warning: Float too large for page by 140.93584pt on input line 61.
+? 
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.4 ...& HD 109454 & HIP_61412_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4 ...& HD 109454 & HIP_61412_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.4 ...& HD 109454 & HIP_61412_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 ...& 2MASS J14281043-2929299 & * I Hya & [HIP_
+                                                  70753_7_1_15_IV_merge.fits...
 
+? 
+! Double subscript.
+l.5 ...J14281043-2929299 & * I Hya & [HIP_70753_7_
+                                                  1_15_IV_merge.fits] & -- &...
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+? 
+! Double subscript.
+l.5 ...4281043-2929299 & * I Hya & [HIP_70753_7_1_
+                                                  15_IV_merge.fits] & -- & -...
 
- []
+? 
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.5 ... I Hya & [HIP_70753_7_1_15_IV_merge.fits] &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 ... I Hya & [HIP_70753_7_1_15_IV_merge.fits] &
+                                                   -- & -- & -- & -- \\
+? h
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 70.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
+? h
+Sorry, I already gave what help I could...
+Maybe you should try asking a human?
+An error might have occurred before I noticed any problems.
+``If all else fails, read the instructions.''
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.5 ... I Hya & [HIP_70753_7_1_15_IV_merge.fits] &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 ... 2MASS J14431929-1035194 & HD 129520 & HIP_
+                                                  71982_6_29_15_II_merge.fit...
 
- []
+? 
+! Double subscript.
+l.6 ...14431929-1035194 & HD 129520 & HIP_71982_6_
+                                                  29_15_II_merge.fits & -- &...
 
-[2] [3]
+? 
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.6 ... 129520 & HIP_71982_6_29_15_II_merge.fits &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.6 ... 129520 & HIP_71982_6_29_15_II_merge.fits &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.6 ... 129520 & HIP_71982_6_29_15_II_merge.fits &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 ...2MASS J16064842-2040088 & * ome Sco & (HIP_
+                                                  78933_6_24_15_merge.fits) ...
 
-Package natbib Warning: Citation `Adam_Krauss_or_other_paper' on page 4 undefin
-ed on input line 71.
+? 
+! Double subscript.
+l.7 ...6064842-2040088 & * ome Sco & (HIP_78933_6_
+                                                  24_15_merge.fits) & -- & -...
 
+? 
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.7 ... ome Sco & (HIP_78933_6_24_15_merge.fits) &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 ... ome Sco & (HIP_78933_6_24_15_merge.fits) &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.7 ... ome Sco & (HIP_78933_6_24_15_merge.fits) &
+                                                   -- & -- & -- & -- \\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ... & 2MASS J15543952-2514375 & * 3 Sco & HIP_
+                                                  77909_7_1_15_merge.fits & ...
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+? h
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
- []
+? -help
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? <return>
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+! Double subscript.
+l.8 ... J15543952-2514375 & * 3 Sco & HIP_77909_7_
+                                                  1_15_merge.fits & -- & -- ...
 
+? 
+! Double subscript.
+l.8 ...15543952-2514375 & * 3 Sco & HIP_77909_7_1_
+                                                  15_merge.fits & -- & -- & ...
 
-Package natbib Warning: Citation `disk_guy' on page 4 undefined on input line 7
-2.
+? 
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.8 ...5 & * 3 Sco & HIP_77909_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+? S
+OK, entering \scrollmode...
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ...5 & * 3 Sco & HIP_77909_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.8 ...5 & * 3 Sco & HIP_77909_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 ... & 2MASS J16075188-2427443 & HR 5998 & HIP_
+                                                  79031_7_1_15_merge.fits & ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
- []
+! Double subscript.
+l.9 ... J16075188-2427443 & HR 5998 & HIP_79031_7_
+                                                  1_15_merge.fits & -- & -- ...
+I treat `x_1_2' essentially like `x_1{}_2'.
 
+! Double subscript.
+l.9 ...16075188-2427443 & HR 5998 & HIP_79031_7_1_
+                                                  15_merge.fits & -- & -- & ...
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-Package natbib Warning: Citation `Spex' on page 4 undefined on input line 73.
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.9 ...3 & HR 5998 & HIP_79031_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 ...3 & HR 5998 & HIP_79031_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+! Missing } inserted.
+<inserted text> 
+                }
+l.9 ...3 & HR 5998 & HIP_79031_7_1_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
- []
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 ...2MASS J15071494-2930160 & HD 133803 & HIP_
+                                                  73990_6_29_15_merge.fits &...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
+! Double subscript.
+l.10 ...5071494-2930160 & HD 133803 & HIP_73990_6_
+                                                  29_15_merge.fits & -- & --...
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-Package natbib Warning: Citation `Joyce_1992' on page 4 undefined on input line
- 74.
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.10 ...HD 133803 & HIP_73990_6_29_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 ...HD 133803 & HIP_73990_6_29_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+! Missing } inserted.
+<inserted text> 
+                }
+l.10 ...HD 133803 & HIP_73990_6_29_15_merge.fits &
+                                                   -- & -- & -- & -- \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
- []
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 ...ASS J15390006-1943569 & HD 139486 & [{HIP_
+                                                  76633_7_2_15_merge.fits}] ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-)
-</Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualplt1/old_
-new_dualplt1.png, id=18, 2035.605pt x 1648.1575pt>
-File: /Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualplt1
-/old_new_dualplt1.png Graphic file (type png)
+! Double subscript.
+l.11 ...90006-1943569 & HD 139486 & [{HIP_76633_7_
+                                                  2_15_merge.fits}] & -- & -...
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-<use /Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualplt1/
-old_new_dualplt1.png>
-Package pdftex.def Info: /Users/corey/work/authorea/Spex-Young-Star-Atlas/figur
-es/old_new_dualplt1/old_new_dualplt1.png used on input line 27.
-(pdftex.def)             Requested size: 501.84921pt x 702.63306pt.
+! Double subscript.
+l.11 ...006-1943569 & HD 139486 & [{HIP_76633_7_2_
+                                                  15_merge.fits}] & -- & -- ...
+I treat `x_1_2' essentially like `x_1{}_2'.
 
-Overfull \hbox (32.09422pt too wide) in paragraph at lines 27--28
- [] 
- []
+! Extra }, or forgotten $.
+l.11 ...HD 139486 & [{HIP_76633_7_2_15_merge.fits}
+                                                  ] & -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-LaTeX Warning: Float too large for page by 108.5655pt on input line 30.
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/section_Data_Reduction_and_An
-alysis__.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
- []
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
- []
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--13
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
- []
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--20
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
- []
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
- []
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-)
-(/Users/corey/work/authorea/Spex-Young-Star-Atlas/section_Comparison_with_Model
-s_section__.tex [4])
-No file authorea_paper.bbl.
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-Package natbib Warning: There were undefined citations.
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-[5] [6 </Users/corey/work/authorea/Spex-Young-Star-Atlas/figures/old_new_dualpl
-t/old_new_dualplt.png>] [7 </Users/corey/work/authorea/Spex-Young-Star-Atlas/fi
-gures/old_new_dualplt1/old_new_dualplt1.png>] (./authorea_paper.aux) ) 
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Extra }, or forgotten $.
+<inserted text> }
+                 
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.11 ...139486 & [{HIP_76633_7_2_15_merge.fits}] &
+                                                   -- & -- & -- & -- \\
+(That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 3375 strings out of 493089
- 45352 string characters out of 6134842
- 130846 words of memory out of 5000000
- 6779 multiletter control sequences out of 15000+600000
+ 3341 strings out of 493089
+ 44053 string characters out of 6134842
+ 115532 words of memory out of 5000000
+ 6756 multiletter control sequences out of 15000+600000
  9865 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,28p,1046b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local
-/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on authorea_paper.pdf (7 pages, 229387 bytes).
-PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38i,8n,28p,1041b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+!  ==> Fatal error occurred, no output PDF file produced!
