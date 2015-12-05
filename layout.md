@@ -6,5 +6,7 @@ section_Sample_Selection.tex
 section_Data_Reduction_and_Analysis_outline.tex
 section_Data_Reduction_and_Analysis__.tex
 figures/old_new_dualplt/old_new_dualplt.png
+section_Data_Reduction_and_Analysis_2.tex
+figures/SNR_brightness/snr_exptime.png
 section_Comparison_with_Models_section__.tex
 section_needed_citations.tex
