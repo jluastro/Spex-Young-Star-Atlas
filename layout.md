@@ -6,6 +6,12 @@ section_Sample_Selection.tex
 section_Data_Reduction_and_Analysis_outline.tex
 section_Data_Reduction_and_Analysis__.tex
 figures/old_new_dualplt/old_new_dualplt.png
+figures/stacked_plots/a/a_group.png
+figures/stacked_plots/b/b_group.png
+figures/stacked_plots/c/c_group.png
+figures/stacked_plots/d/d_group.png
+figures/stacked_plots/e/e_group.png
+figures/stacked_plots/low_snr/low_SNR.png
 section_Data_Reduction_and_Analysis_2.tex
 figures/SNR_brightness/snr_exptime.png
 section_Comparison_with_Models_section__.tex
