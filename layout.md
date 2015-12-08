@@ -4,7 +4,7 @@ section_table.tex
 section_Sample_Selection.tex
 section_Data_Reduction_and_Analysis_outline.tex
 section_Data_Reduction_and_Analysis__.tex
-figures/old_new_dualplt/old_new_dualplt.png
+figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
 figures/stacked_plots/a/a_group.png
 figures/stacked_plots/b/b_group.png
 figures/stacked_plots/c/c_group.png
