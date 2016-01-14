@@ -1,0 +1,26 @@
+\section{Data Reduction and Analysis}
+
+Calibration frames consist of flats, arcs, and observed A0 data.  Flat frames allow for the removal of inconsistencies, amongst the detector's pixels.  Observations of an arc lamp permitted wavelength calibration.  For telluric reduction, an observed A0 star was compared to a previously well established standard star.  Deviations of the observed star, from the standard, are attributed to atmospheric interference.  This process allows for such telluric residuals to be removed.  For reduction of collected spectra, Spextool was used.
+
+
+Collected data is stored as a fits file.  To be transformed from an array into a workable spectrum Spextool was used~\cite{Cushing_2004}.  Once extracted, each spectra was visually reviewed.  Hot pixels, outliers, and areas of low SNR were masked and removed.  Through this process the intrinsic spectra of each star was better revealed.
+
+
+Telluric reduction was accomplished using B-V data provided by Simbad~\cite{simbad}.  The airmass difference between a target and corresponding A0 never exceed 0.15.  
+%Airmass of each A0 star differed from that of the targets by no more than 0.15.
+In order to properly scale emission lines and account for velocity shifts, a kernel was constructed using the observed A0.  Finally, all orders were scaled and merged, producing a continuous spectrum.
+A more detailed account of this process is outlined by Vacca~\cite{Vacca_2003}. 
+
+
+
+VI) References
+  a) Lord, S. D., 1992, NASA Technical Memorandum 103957, and acknowledge Gemini Observatory.
+  for telluric transmission regions shown in gray on plots
+  b) Simbad
+  
+  
+  
+  
+
+
+
