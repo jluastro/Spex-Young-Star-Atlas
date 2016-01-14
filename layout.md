@@ -2,7 +2,6 @@ section_Introduction_Fubar_We_want__.tex
 section_Observations_begin_table_begin__.tex
 section_table.tex
 section_Sample_Selection.tex
-section_Data_Reduction_and_Analysis.tex
 section_Data_Reduction_and_Analysis__.tex
 figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
 figures/stacked_plots/a/a_group.png
