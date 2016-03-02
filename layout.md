@@ -14,4 +14,5 @@ figures/stacked_plots/low_snr/low_SNR.png
 section_Data_Reduction_and_Analysis_2.tex
 figures/SNR_brightness/snr_exptime.png
 section_Comparison_with_Models_section__.tex
+figures/comparison/G2V_difference_observed_standard.png
 section_needed_citations.tex
