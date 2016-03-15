@@ -1,6 +1,8 @@
 section_Introduction_Fubar_We_want__.tex
 section_UROP_Abstract.tex
 section_Sample_Selection.tex
+figures/histogram_of_classes/spt/histogram_of_spt_classes.png
+figures/histogram_of_classes/lum/histogram_of_lum_classes.png
 section_Observations_begin_table_begin__.tex
 section_table.tex
 section_Data_Reduction_and_Analysis__.tex
