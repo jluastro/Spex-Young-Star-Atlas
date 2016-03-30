@@ -1,0 +1,31 @@
+authorea comments
+
+**old observation section:
+
+#>>May want to reorganize sections 2, 3, and 4 a bit. Put data reduction stuff under observations; reserve the “Analysis” section for the actual analysis you do with the final reduced spectra
+
+Spectra collected after the update are comprehensive,
+#>>What do you mean by this? Comprehensive in that all the stars in our sample are observed? Or comprehensive in that the wavelengths cover everything we want?
+
+
+ Standard A0V stars also needed to be observed.
+#>>State purpose: for telluric line corrections
+
+ Dates of observations for particular targets are displayed in Table 1.
+ #>>Maybe do something like: "Observations were obtained between XXX and XXX (Table 1)"
+
+
+
+ **old Data Reduction and Analysis:
+
+  The most recent upgrade to Spex occurred in August 2014. This upgrade increased the observable wavelength.
+  #>> Be sure to mention wavelength gap in old Spex (about 1.8 microns), but not in uSpex
+
+   All of the objects discussed in this paper were observed with the NASA Infra-Red Telescope Facility (IRTF) and the SpeX instrument (Rayner 1998) in the short-wavelength cross-dispersed mode (SXD), with a resolution of 2000. During observations, we collected two distinct types of data. One set before Spex was updated and another after. The most recent upgrade to Spex occurred in August 2014. This upgrade increased the observable wavelength. See Table ??? for comparison.
+   #>> Repeated information...m...
+
+ a kernel was constructed using the observed A0
+   #>> What does this mean? Could use more details here
+
+   During observations, integration times were altered as to maximize the Signal to Noise ratio (SNR)
+   #>> This belongs much earlier, near the beginning of the observations section. This section should read like a story...once the observations are taken and the calibrations are done, we can't go back and alter integration times, right? We do that at the telescope. So, this detail must be earlier in the section

@@ -1,0 +1,25 @@
+\subsection{Data Reduction}
+
+
+All of the objects discussed in this paper were observed with the NASA Infra-Red Telescope Facility (IRTF) and the SpeX instrument \cite{Rayner_1998} in the short-wavelength cross-dispersed mode (SXD), with a resolution of 2000.  During observations, we collected two distinct types of data.  One set before Spex was updated and another after.  The most recent upgrade to Spex occurred in August 2014.  This upgrade increased the observable wavelength.  See Table \ref{tab:maintab} for comparison.
+
+%[HOW DO I PROPERLY CITE WAVELENGTH RANGE IN TABEL]\cite{RAYER_SPEX_OBSERVING_MANUAL_or_Spextool_2015_manual}.\\
+
+
+Calibration frames consist of flats, arcs, and observed A0V data.  Flat frames allow for the removal of inconsistencies, amongst the detector's pixels.  Observations of an arc lamp permitted wavelength calibration.  For telluric reduction, an observed A0V star was compared to a previously well established standard star.  The choice of A0V stars as standards was based on their relatively few spectral features, outside hydrogen lines; making isolation of telluric lines significantly cleaner.  
+Deviations of the observed star, from the standard, are attributed to atmospheric interference.  This process allows for such telluric residuals to be removed.  For reduction of collected spectra, Spextool was used.
+
+
+
+
+
+To be transformed from an array into a workable spectrum Spextool was used~\cite{Cushing_2004}.  Once extracted, each spectra was visually reviewed.  Hot pixels, outliers, and areas of low SNR were masked and removed.  Through this process the intrinsic spectra of each star was better revealed.
+
+
+Telluric corrections were accomplished using spectroscopic observations of standard stars. B-V data, provided by Simbad~\cite{simbad}, was used in in the standard selection process.
+In order to properly scale emission lines and account for velocity shifts, a kernel was constructed using the observed A0V.  Finally, all orders were scaled and merged, producing a continuous spectrum.
+A more detailed account of this process is outlined by Vacca~\cite{Vacca_2003}. 
+
+
+Comparison of the data taken on each A0V standard to that of a well known A0V, Vega, allowed for the determination of atmospheric residuals.  %Spextool made this data reduction possible.  
+For reduction purposes, the Spex pipeline was used\footnote{\url{http://irtfweb.ifa.hawaii.edu/~spex/SpeX_manual_06mar15.pdf}}.  The difference between an observed A0V and the model for Vega can be attributed to atmospheric conditions existing at the time of observation.  The same atmospheric disturbances apply to all objects observed at the same time and airmass.  Telluric corrections can now be applied to the spectra of each science object.  During observations, integration times were altered as to maximize the Signal to Noise ratio (SNR). \cite{Cushing_2004}
