@@ -8,6 +8,7 @@ section_table.tex
 subsection_Data_Reduction.tex
 figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
 section_Data_and_Analysis.tex
+subsection_The_Spectra.tex
 figures/SNR_brightness/snr_exptime.png
 figures/stacked_plots/a/a_group.png
 figures/stacked_plots/b/b_group.png
