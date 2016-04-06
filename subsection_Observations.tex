@@ -1,0 +1,42 @@
+\subsection{Observations}
+
+%Included in this update was an increase in precision, permitting Spex to take a larger number of wavelength samplings...This update increased the rate at which Spex samples wavelengths.  
+Spex was updated in August, 2014.  This update increased Spex's wavelength sampling rate, allowing for higher accuracy of collected data.  
+%A portion of the objects in this catalog were observed prior to the implementation of this update.  
+A portion of the objects in this catalog were observed prior to this update.  For this reason, it is necessary to compare data taken with each version of Spex, shown in Figure~\ref{fig:uSpex-Spex}.  
+%Figure \ref{fig:uSpex-Spex} shows such a comparison, using GSC 06801-00186.  This object...It is clear from this figure that while the data taken with uSpex is more comprehensive, spectra collected using Spex are still sufficiently accurate.
+GSC 06801-00186 was observed on June 29, 2012 UT, before Spex was updated, and again on June 15, 2015, after uSpex was implemented~\cite{Spextool_Manual_Cushing_2015}.  %From this figure, it is clear that data collected with either version is sufficiently accurate, but uSpex spectra are more comprehensive.
+%Specify that it is the wavelength coverage that we care about in this analysis, and the wavelength coverage of both Spex and uSpex are adequate for our study
+
+Spectra collected after the update span a larger wavelength range, but both Spex and uSpex data sufficiently cover the wavelength range needed for our study.  
+%Spectra collected after the update are comprehensive, but both Spex and uSpex data sufficiently cover the wavelength range needed for our study.
+Data collected with both versions follow the same procedure, discussed below.  Before the upgrade, the wavelength range spanned 0.80-2.4~$\mu$m.  Following August 2014, the wavelength range was expanded to span 0.70-2.55~$\mu$m.  Observations were obtained between 3/12 and 6/15 (Table~\ref{tab:maintab}).\\
+%Dates of observations for particular targets are displayed in Table~\ref{tab:maintab}.\\
+
+
+
+~[SNR calculated over range of 2.025-2.162 microns]\\
+
+
+
+
+Observations were made in AB pairs.  After the initial A frame is taken, the telescope offsets ("nods") and captures a B frame.  Both frames are of the the same science target, at a different position along the slit.  Since our objects were treated as point sources, this AB mode allowed for the subtraction of the B frame from the A frame, leaving both positive and negative spectrum along with sky residuals~\cite{Cushing_2004}. Subtraction of these pairs allows for the removal of dark currents and sky residuals.
+
+
+
+After collecting data on a particular science object, 
+flat and arc calibration frames were taken.  
+In order to minimize the time between target observations and 
+the collection of calibration frames, the telescope remained unmoved.  
+Background noise was identified and removed using darks and flats.
+
+
+
+Standard A0V stars also needed to be observed, for telluric line corrections.  Which A0V 
+to observe was determined by location and airmass.  For our purposes, an ideal A0V would 
+deviate from the science objects' airmass by no more than 0.15 and be located 
+in the same region of the sky as the science object.  This ensured minimal 
+atmospheric derivations between our science and A0V stars.
+%The airmass difference between a target and corresponding A0 never exceed 0.15.  
+%Airmass of each A0 star differed from that of the targets by no more than 0.15.
+

@@ -1,8 +1,9 @@
 section_Introduction_Fubar_We_want__.tex
 section_UROP_Abstract.tex
-section_Sample_Selection.tex
+section_Observations_and_Data_Reduction.tex
+subsection_Sample_Selection.tex
 figures/histogram_of_classes/spectral/histogram_of_spt_classes.png
-section_Observations_begin_table_begin__.tex
+subsection_Observations.tex
 section_table.tex
 subsection_Data_Reduction.tex
 figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
