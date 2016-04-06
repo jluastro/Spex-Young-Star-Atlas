@@ -7,14 +7,14 @@ subsection_Observations.tex
 section_table.tex
 subsection_Data_Reduction.tex
 figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
+section_Data_and_Analysis.tex
+figures/SNR_brightness/snr_exptime.png
 figures/stacked_plots/a/a_group.png
 figures/stacked_plots/b/b_group.png
 figures/stacked_plots/c/c_group.png
 figures/stacked_plots/d/d_group.png
 figures/stacked_plots/e/e_group.png
 figures/stacked_plots/low_snr/low_SNR.png
-section_Analysis.tex
-figures/SNR_brightness/snr_exptime.png
 section_Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
 figures/comparison/K5V/K5V.png
