@@ -16,6 +16,7 @@ figures/stacked_plots/c/c_group.png
 figures/stacked_plots/d/d_group.png
 figures/stacked_plots/e/e_group.png
 figures/stacked_plots/low_snr/low_SNR.png
+subsection_Equivalent_Widths.tex
 section_Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
 figures/comparison/K5V/K5V.png
