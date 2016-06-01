@@ -3,4 +3,24 @@
 
 Spectral features were identified by~\cite{Rayner_2009}.  
 
-A more in-depth discussion of this procedure is given by~\cite{Cushing_2005}.
+\begin{table}[H]
+	\begin{tabular}{c|c|c|c}
+	\label{tab:features}
+		Feature & Limits ($\mu$m) & First Continuum Level Limits ($\mu$m) & Second Continuum Level Limits ($\mu$m) \\ \hline
+		Ca II (0.866~$\mu$m) & 0.860--0.875 & 0.862--0.864 & 0.870--0.873 \\
+	\end{tabular}
+\end{table}
+
+\begin{equation}\label{eq:EW}
+	EW = \sum_{i=1}^{n} [1 - \frac{f(\lambda_{i})}{f_{c}(\lambda_{i})}] \Delta\lambda_{i}
+\end{equation}
+Calculation of equivalent width values was done using Equation~\ref{eq:EW}.  A more in-depth discussion of this procedure is given by~\cite{Cushing_2005}.
+
+Procedure:\\
+\begin{itemize}
+	\item{} Define spectral window using
+	\item{} Estimate continuum
+	\item{}~~~~~Unweighted linear fit to 1st and 2nd Limits from Table~\ref{tab:features}
+	\item{} Sum using Eq.~\ref{eq:EW}
+\end{itemize}
+
