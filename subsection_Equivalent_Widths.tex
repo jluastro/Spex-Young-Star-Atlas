@@ -42,7 +42,7 @@ Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum
 $f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
 
 
-$\Delta\lambda$ the difference between subsequent wavelength bins; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.  To subtract adjacent wavelength bins in this fashion, $\lambda_{n}$ was appended to the end of the wavelength array.\\
+$\Delta\lambda$ the difference between subsequent wavelength bins; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.  To subtract adjacent wavelength bins in this fashion, $\lambda_{n}$ was appended to the end of the wavelength array, preserving dimensionality of the arrays.\\
 ~[accounts for sum going from 1 to n, rather than 0 to n]\\
 ~[~[VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAUSES A DIFFERENCE OF 0~]~] ~~(lamb[-1] - lamb[-1]= 0)\\
 
