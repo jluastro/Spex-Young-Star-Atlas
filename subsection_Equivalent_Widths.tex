@@ -14,38 +14,7 @@ Spectral features were identified by~\cite{Rayner_2009}.
 \begin{equation}\label{eq:EW}
 	EW = \sum_{i=1}^{n} [1 - \frac{f(\lambda_{i})}{f_{c}(\lambda_{i})}] \Delta\lambda_{i}
 \end{equation}
-Calculation of equivalent width values was done using Equation~\ref{eq:EW}.  A more in-depth discussion of this procedure is given by~\cite{Cushing_2005}.  \cite{Sembach_1992}~discusses the technique used in estimating $f_{c}(\lambda_{i})$, $\sigma(\lambda_{i})$, and $\sigma_{c}(\lambda_{i})$.
 
-Procedure:\\
-\begin{itemize}
-	\item{} Define spectral window using
-	\item{} Estimate continuum
-	\item{}~~~~~Unweighted linear fit to 1st and 2nd Limits from Table~\ref{tab:features}
-	\item{} Sum using Eq.~\ref{eq:EW}
-\end{itemize}
-
-sum from 1 to N\\
-
-Equivalent width (EW) and uncertainty values were calculated using Eq...where $f(\lambda_{i})$ is
-$f_{c}(\lambda_{i})$ is
-$\sigma(\lambda_{i})$ is
-and $\sigma_{c}(\lambda_{i})$ is
-Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
-~[what is the term used in paper matt sent]\\
-$f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
-
-$\Delta\lamda$ is [half?] the difference between subsequent wavelength bins.  To ensure wavelength and flux arrays were the same length, $\lambdi_{N}$
-~[accounts for sum going from 1 to N, rather than 0 to N]\\
-~[~[VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAuSES A DIFFERENCE OF 0~]~] ~~(lamb[-1] - lamb[-1]= 0)\\
-
-~[recalc using SS92 $\lambda_{i+1/2} -- \lambda_{i-1/2}$]\\
-~[^ do this by using the full window to restrict values, then go from 1 to N in for loop]
-
-Refining EW procedure involved \\
-Validation of EW values was accomplished by first verifying published values~\cite{Rayner_2009}.  
-
-~\\~[discuss which lines were chosen and why]\\
-~[how do they map to spt type...lum class]\\
-~[what features are for young stars??]\\
-~[comment on the paper matt dug up??...EW verification paper]
-
+\begin{equation}\label{eq:EWvar}
+	\sigma_{EW}^{2} = \sum_{i=1}^{n} \Delta\lambda_{i}^{2} [\frac{\sigma^{2}(\lambda_{i})}{f_{c}^{2}(\lambda_{i})} + \frac{f^{2}(\lambda_{i})}{f_{c}^{4}(\lambda_{i})}\sigma_{c}^{2}(\lambda_{i})
+\end{equation}
