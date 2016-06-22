@@ -3,8 +3,7 @@ section_Introduction_We_want_to__.tex
 %section_UROP_Abstract.tex
 section_Observations_and_Data_Reduction.tex
 subsection_Sample_Selection.tex
-%figures/histogram_of_classes/spectral/histogram_of_spt_classes.png
-figures/histogram_of_classes/spectral/histogram_of_spt_classes.pdf
+figures/histogram_of_classes/spectral/histogram_of_spt_classes.png
 subsection_Observations.tex
 section_table.tex
 subsection_Data_Reduction.tex
