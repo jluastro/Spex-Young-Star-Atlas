@@ -4,6 +4,7 @@ section_Introduction_We_want_to__.tex
 section_Observations_and_Data_Reduction.tex
 subsection_Sample_Selection.tex
 figures/histogram_of_classes/spectral/histogram_of_spt_classes_color.png
+figures/histogram_of_classes/spectral_no_lowSNR/histogram_of_spt_classes_color_includes_spex_uspex_noLowSNR.png
 subsection_Observations.tex
 section_table.tex
 subsection_Data_Reduction.tex
