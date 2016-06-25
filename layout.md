@@ -6,7 +6,7 @@ subsection_Sample_Selection.tex
 figures/histogram_of_classes/spectral/histogram_of_spt_classes_color.png
 figures/histogram_of_classes/spectral_no_lowSNR/histogram_of_spt_classes_color_includes_spex_uspex_noLowSNR.png
 subsection_Observations.tex
-main_table.tex
+tables/main_table.tex
 subsection_Data_Reduction.tex
 figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
 section_Data_and_Analysis.tex
@@ -19,6 +19,7 @@ figures/stacked_plots/g/group_g.png
 figures/stacked_plots/k/group_k.png
 figures/stacked_plots/m/group_m.png
 figures/stacked_plots/low_snr/group_low_SNR.png
+tables/EW_features_table.tex
 subsection_Equivalent_Widths.tex
 section_Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
