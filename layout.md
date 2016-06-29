@@ -8,7 +8,8 @@ figures/histogram_of_classes/spectral_no_lowSNR/histogram_of_spt_classes_color_i
 subsection_Observations.tex
 tables/main_table.tex
 subsection_Data_Reduction.tex
-figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
+%figures/old_new_dualplt/compare_Spex_uSpex_overlapping_and_unstacked.png
+figures/spex_uspex/single_stacked_mask_tics.png
 section_Data_and_Analysis.tex
 subsection_The_Spectra.tex
 figures/SNR_brightness/snr_exptime.png
