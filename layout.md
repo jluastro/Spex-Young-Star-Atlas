@@ -24,6 +24,7 @@ figures/stacked_plots/low_snr/group_low_SNR.png
 figures/stacked_plots/g5v/g5v_HBC_649.png
 tables/EW_features_table.tex
 subsection_Equivalent_Widths.tex
+tables/EW_values.tex
 section_Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
 figures/comparison/K5V/K5V.png

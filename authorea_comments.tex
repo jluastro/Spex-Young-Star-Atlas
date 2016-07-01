@@ -80,11 +80,19 @@ A portion of the objects in this catalog were observed prior to this upgrade. Fo
 %#>> present or past tense?
 
 
+
 %% Table
 We might want to think about re-ordering this table so that the stars are in temperature order, rather than HIP number. Note that Table 2 of Rayner+09 is in temperature order
+
 
 %% Plot comparing Spex, uSpex
 Probably doesn’t need to be a 2 panel plot...what does the top panel show that the bottom doesn’t? Consider just the bottom panel, with a legend showing red = spex and green = uspex
 
+
 %% Stacked plots
 Order of spectra is different in this plot (hottest - coldest) compared to other plots (coldest - hottest). Rayner+09 goes from hottest - coldest, so should probably do it that way
+
+
+%% EW section
+ΔλΔλ is the difference between adjacent wavelength intervals (Sembach 1992). 
+#>> this differs than how we did it: ΔλΔλ is the difference between subsequent wavelength bins; Δλ=λi+1−λiΔλ=λi+1−λi. To subtract adjacent wavelength intervals in this fashion, λnλn was appended to the end of the wavelength array, preserving dimensionality of the arrays.
