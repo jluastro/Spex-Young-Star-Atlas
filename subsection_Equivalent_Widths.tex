@@ -11,10 +11,27 @@ Spectral features were identified by~\cite{Rayner_2009}.
 \begin{equation}\label{eq:EWvar}
 	\sigma_{EW}^{2} = \sum_{i=1}^{n} \Delta\lambda_{i}^{2} [\frac{\sigma^{2}(\lambda_{i})}{f_{c}^{2}(\lambda_{i})} + \frac{f^{2}(\lambda_{i})}{f_{c}^{4}(\lambda_{i})}\sigma_{c}^{2}(\lambda_{i})
 \end{equation}
+where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
+and observed continuum fluxes, respectively.  Uncertainties in the 
+observed and continuum fluxes are $\sigma(\lambda_{i})$ and 
+$\sigma_{c}(\lambda_{i})$, respectively.  $\Delta\lambda$ is the 
+difference between adjacent wavelength intervals~\cite{Sembach_1992}.
+%$\Delta\lambda$ is the difference between subsequent wavelength bins; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.
+To subtract adjacent wavelength intervals in this fashion, $\lambda_{n}$ was appended to the end of the wavelength array, preserving dimensionality of the arrays.\\
 
 
-%Calculation of equivalent width values was done using Equations~\ref{eq:EW}~and~\ref{eq:EWvar}~\cite{Cushing_2005}.
-A more in-depth discussion of this procedure is given by~\cite{Cushing_2005}.  \cite{Sembach_1992}~discusses the technique used in estimating $f_{c}(\lambda_{i})$, $\sigma(\lambda_{i})$, and $\sigma_{c}(\lambda_{i})$.
+Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
+~[what is the term used in paper matt sent]\\
+$f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
+ 
+
+~[accounts for sum going from 1 to n, rather than 0 to n]\\
+~[~[VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAUSES A DIFFERENCE OF 0~]~] ~~(lamb[-1] - lamb[-1]= 0)\\
+
+
+
+
+
 
 Procedure:\\
 \begin{itemize}
@@ -27,19 +44,12 @@ Procedure:\\
 
 
 
-Equivalent width (EW) and associated uncertainty values were calculated using Equations~\ref{eq:EW}~and~\ref{eq:EWvar}~\cite{Cushing_2005}. 
-where $f(\lambda_{i})$ is
-$f_{c}(\lambda_{i})$ is
-$\sigma(\lambda_{i})$ is
-and $\sigma_{c}(\lambda_{i})$ is
-Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
-~[what is the term used in paper matt sent]\\
-$f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
+Equivalent width (EW) values and variance were calculated using Equations~\ref{eq:EW}~and~\ref{eq:EWvar}~\cite{Cushing_2005}. %Calculation of equivalent width values was done using Equations~\ref{eq:EW}~and~\ref{eq:EWvar}~\cite{Cushing_2005}.
+A more in-depth discussion of this procedure is given by~\cite{Cushing_2005}.  \cite{Sembach_1992}~discusses the technique used in estimating $f_{c}(\lambda_{i})$, $\sigma(\lambda_{i})$, and $\sigma_{c}(\lambda_{i})$.
 
 
-$\Delta\lambda$ the difference between subsequent wavelength bins; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.  To subtract adjacent wavelength bins in this fashion, $\lambda_{n}$ was appended to the end of the wavelength array, preserving dimensionality of the arrays.\\
-~[accounts for sum going from 1 to n, rather than 0 to n]\\
-~[~[VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAUSES A DIFFERENCE OF 0~]~] ~~(lamb[-1] - lamb[-1]= 0)\\
+
+
 
 ~[recalc using SS92 $\lambda_{i+\frac{1}{2}}$--$\lambda_{i-\frac{1}{2}}$]\\
 ~[do (above) by using the full window to restrict values, then go from 1 to N in for loop]
