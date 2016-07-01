@@ -27,17 +27,13 @@ difference between adjacent wavelength intervals~\cite{Sembach_1992}.
 %$\Delta\lambda$ is the difference between subsequent wavelength bins; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.
 %To subtract adjacent wavelength intervals in this fashion, $\lambda_{n}$ was appended to the end of the wavelength array, preserving dimensionality of the arrays.\\
 
-~[Refining EW procedure involved \\
-~[Validation of EW values was accomplished by first verifying published values~\cite{Rayner_2009}.]\\
-~[Discuss difference between Sembach and my method: $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$]\\
-
 
 %Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
 %~[what is the term used in paper matt sent]\\
 %$f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
 
 
-Procedure:\\
+{\bf Procedure:}\\
 \begin{itemize}
 	\item{} Define spectral window using
 	\item{} Estimate continuum
@@ -47,19 +43,26 @@ Procedure:\\
 \end{itemize}
 
 
+{\bf Notes:}\\
+\begin{itemize}
+	\item{} Refining EW procedure involved
+	\item{} Validation of EW values was accomplished by first verifying published values~\cite{Rayner_2009}.
+	\item{} Discuss difference between Sembach and my method: $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$
+	\item{} accounts for sum going from 1 to n, rather than 0 to n
+	\item{} VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAUSES A DIFFERENCE OF 0
+	\item{}~~~~~(lamb[-1] - lamb[-1]= 0)
+	\item{} recalc using SS92 $\lambda_{i+\frac{1}{2}}$--$\lambda_{i-\frac{1}{2}}$
+	\item{}~~~~~do by using the full window to restrict values, then go from 1 to N in for loop
+\end{itemize}
 
-~[accounts for sum going from 1 to n, rather than 0 to n]\\
-~[~[VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAUSES A DIFFERENCE OF 0~]~] ~~(lamb[-1] - lamb[-1]= 0)\\
-
-~[recalc using SS92 $\lambda_{i+\frac{1}{2}}$--$\lambda_{i-\frac{1}{2}}$]\\
-~[do (above) by using the full window to restrict values, then go from 1 to N in for loop]
 
 
- 
 
-~\\~[discuss which lines were chosen and why]\\
-~[how do they map to spt type...lum class]\\
-~[what features are for young stars??]\\
-
+{\bf Discuss:}\\
+\begin{itemize}
+	\item{} discuss which lines were chosen and why
+	\item{} how do they map to spt type...lum class
+	\item{} what features are for young stars??
+\end{itemize}
 
 
