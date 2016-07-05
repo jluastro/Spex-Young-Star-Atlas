@@ -3,7 +3,6 @@ Introduction.tex
 %section_UROP_Abstract.tex
 section_Observations_and_Data_Reduction.tex
 subsection_Sample_Selection.tex
-figures/willthiswork/willthiswork.png
 %figures/histogram_of_classes/spectral/histogram_of_spt_classes_color.png
 subsection_Observations.tex
 tables/main_table.tex
