@@ -3,7 +3,7 @@
 Spectral features act as indicators of many stellar properties.  The 
 spectral features listed in Table~\ref{tab:features} 
 %were identified by~\cite{Rayner_2009}
-are used in determining the spectral types of cool 
+are used in determining spectral types of cool 
 stars~\cite{Rayner_2009}.  Equivalent width (EW) 
 values are given in Table~\ref{tab:EWvals}.  
 Equations~\ref{eq:EW}~and~\ref{eq:EWvar} were used in calculating EW values 
@@ -20,12 +20,22 @@ and uncertainties, following the procedure described by~\cite{Cushing_2005}.
 	\sigma_{EW}^{2} = \sum_{i=1}^{n} \Delta\lambda_{i}^{2} [\frac{\sigma^{2}(\lambda_{i})}{f_{c}^{2}(\lambda_{i})} + \frac{f^{2}(\lambda_{i})}{f_{c}^{4}(\lambda_{i})}\sigma_{c}^{2}(\lambda_{i})],
 \end{equation}
 where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
-and observed continuum fluxes, respectively.  Uncertainties in the 
-observed and continuum fluxes are $\sigma(\lambda_{i})$ and 
-$\sigma_{c}(\lambda_{i})$, respectively.  $\Delta\lambda$ is the 
-difference between adjacent wavelength intervals~\cite{Sembach_1992}.
-%$\Delta\lambda$ is the difference between subsequent wavelength bins; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.
-%To subtract adjacent wavelength intervals in this fashion, $\lambda_{n}$ was appended to the end of the wavelength array, preserving dimensionality of the arrays.\\
+and observed continuum flux densities, respectively.  Uncertainties in the 
+observed and continuum flux densities are $\sigma(\lambda_{i})$ and 
+$\sigma_{c}(\lambda_{i})$, respectively, were calculated following the procedure 
+described by~\cite{Sembach_1992}.  To estimate these values, \cite{Sembach_1992} 
+transformed from wavelength to velocity space.  Rather than subtracting adjacent intervals, 
+\cite{Sembach_1992} defined $d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  
+$\Delta\lambda$ is the difference between subsequent wavelength bins; 
+$\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.  To subtract adjacent 
+wavelength intervals in this fashion, $\lambda_{n}$ was appended to the 
+end of the wavelength array, preserving dimensionality of the arrays.  
+This slight variation in methodology was shown to produce the same results.
+
+
+
+%$\Delta\lambda$ is the difference between adjacent wavelength intervals~\cite{Sembach_1992}.
+
 
 
 %Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
