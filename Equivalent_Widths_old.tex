@@ -1,8 +1,7 @@
 \subsection{Equivalent Widths}
 
-\indent Spectral features act as indicators of many stellar properties.  \\
-\indent Stellar properties can be determined through analysis of spectral features.  \\
-The spectral features listed in Table~\ref{tab:features} 
+Spectral features act as indicators of many stellar properties.  The 
+spectral features listed in Table~\ref{tab:features} 
 %were identified by~\cite{Rayner_2009}
 can be used to determine spectral types of cool 
 stars~\cite{Rayner_2009}.  Equivalent width (EW) 
@@ -23,7 +22,7 @@ variances, $\sigma_{EW}^{2}$, are given by
 \end{equation}
 
 
-\noindent A) where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
+\noindent where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
 and calculated continuum flux densities, respectively.  Uncertainties in the 
 observed and calculated continuum flux densities are $\sigma(\lambda_{i})$ and 
 $\sigma_{c}(\lambda_{i})$, respectively, were calculated following the procedure 
@@ -38,47 +37,7 @@ This slight variation in methodology was shown to produce the same results.
 
 
 
-\noindent B) where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
-and estimated continuum flux densities, respectively.  Uncertainties in the 
-observed and estimated continuum flux densities, $\sigma(\lambda_{i})$ and 
-$\sigma_{c}(\lambda_{i})$, were calculated following the procedure 
-of~\cite{Sembach_1992}.  
-
-
-	\indent 1) $\Delta\lambda$ is the difference between subsequent 
-	wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.   
-	Dimensionality was preserved by appending $\lambda_{n}$ to the end 
-	of each wavelength array\\
-
-	\indent 2) $\Delta\lambda$ is the difference between subsequent 
-	wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.   
-	To subtract adjacent wavelength intervals, array dimensionality needed 
-	preservation.  This was achieved by appending $\lambda_{n}$ to the end 
-	of each wavelength array.\\
-
-	\indent 3) $\Delta\lambda$ is the difference between subsequent 
-	wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.   
-	To preserve array dimensionality $\lambda_{n+1}$ was set to $\lambda_{n}$.\\
-
-	\indent 4) With $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$, wavelength 
-	arrays weren't properly shaped.  Preservation of dimensionality was achieved 
-	by appending $\lambda_{n}$ to the end of each wavelength array.\\
-
-
-Rather than subtracting adjacent intervals, 
-\cite{Sembach_1992} converted from wavelength to velocity--space and defined 
-$d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  This slight variation in 
-methodology was shown to produce the same results, within error.
-
-
-
-Validation of this procedure was accomplished by calculating EW values and 
-uncertainties of existing spectral libraries\footnote{Table 9 of \cite{Rayner_2009}.}.  
-
-
-
-\noindent [CAN THIS BE EXPRESSED AS $\lambda_{i+1} - \lambda_{i} == \lambda_{i} - \lambda_{i-1}$]\\
-~[THIS ACCOUNTS FOR SUM GOING FROM 0 TO n]
+%$\Delta\lambda$ is the difference between adjacent wavelength intervals~\cite{Sembach_1992}.
 
 
 
@@ -89,7 +48,7 @@ uncertainties of existing spectral libraries\footnote{Table 9 of \cite{Rayner_20
 
 {\bf Procedure:}\\
 \begin{itemize}
-	\item{} Define spectral window
+	\item{} Define spectral window using
 	\item{} Estimate continuum
 	\item{}~~~~~Unweighted linear fit to 1st and 2nd Limits from Table~\ref{tab:features}
 	\item{} Sum using Eq.~\ref{eq:EW}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -713,8 +713,10 @@ LaTeX Warning: Float too large for page by 135.68733pt on input line 108.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/EW_features_table.tex
-Overfull \hbox (110.92273pt too wide) in paragraph at lines 3--12
+
+(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/EW_features_cool_stars.te
+x
+Overfull \hbox (110.92268pt too wide) in paragraph at lines 3--12
 [][] 
  []
 
@@ -725,46 +727,79 @@ e 12.
 [3]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Equivalent_Widths.tex
 
 Package natbib Warning: Citation `Rayner_2009' on page 4 undefined on input lin
-e 7.
+e 8.
 
 
 Package natbib Warning: Citation `Cushing_2005' on page 4 undefined on input li
-ne 10.
+ne 11.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 29.
+ne 30.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 29.
+ne 30.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 31.
+ne 32.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
+ne 45.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+
+Package natbib Warning: Citation `Sembach_1992' on page 5 undefined on input li
+ne 69.
+
+
+Package natbib Warning: Citation `Rayner_2009' on page 5 undefined on input lin
+e 76.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
+[5]
 
-Package natbib Warning: Citation `Rayner_2009' on page 5 undefined on input lin
-e 62.
+Package natbib Warning: Citation `Rayner_2009' on page 6 undefined on input lin
+e 103.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
@@ -780,7 +815,7 @@ LaTeX Warning: Float too large for page by 230.80942pt on input line 60.
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Comparison_with_Models_section__
 .tex)
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_diffe
-rence_observed_standard.png, id=40, 578.16pt x 433.62pt>
+rence_observed_standard.png, id=43, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_
 difference_observed_standard.png Graphic file (type png)
 
@@ -805,7 +840,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.png, 
-id=41, 578.16pt x 433.62pt>
+id=44, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.
 png Graphic file (type png)
 
@@ -828,7 +863,7 @@ LaTeX Warning: Float too large for page by 135.77777pt on input line 128.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/needed_citations.tex [5]
+(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/needed_citations.tex
 
 Package natbib Warning: Citation `Rayner_2003' on page 6 undefined on input lin
 e 12.
@@ -853,31 +888,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 Package natbib Warning: Citation `2mass_catalog_for_j_mags' on page 6 undefined
  on input line 16.
 
-) (./authorea_paper.bbl)
+[6]) (./authorea_paper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
-[6] [7 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/histogram_of_clas
-ses/spectral_color/histogram_color_46total.png>] [8] [9 </Users/cmutnik/work/gi
-t/Spex-Young-Star-Atlas/figures/spex_uspex/single_stacked_mask_tics.png>]
-[10 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/snr_e
-xptime.png>] [11 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked
-_plots/b/group_b.png>] [12 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figur
-es/stacked_plots/a/group_a.png>] [13 </Users/cmutnik/work/git/Spex-Young-Star-A
-tlas/figures/stacked_plots/f/group_f.png>] [14 </Users/cmutnik/work/git/Spex-Yo
-ung-Star-Atlas/figures/stacked_plots/g/group_g.png>] [15 </Users/cmutnik/work/g
-it/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.png>] [16 </Users/cmut
+[7] [8 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/histogram_of_clas
+ses/spectral_color/histogram_color_46total.png>] [9] [10 </Users/cmutnik/work/g
+it/Spex-Young-Star-Atlas/figures/spex_uspex/single_stacked_mask_tics.png>]
+[11 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/snr_e
+xptime.png>] [12 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked
+_plots/b/group_b.png>] [13 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figur
+es/stacked_plots/a/group_a.png>] [14 </Users/cmutnik/work/git/Spex-Young-Star-A
+tlas/figures/stacked_plots/f/group_f.png>] [15 </Users/cmutnik/work/git/Spex-Yo
+ung-Star-Atlas/figures/stacked_plots/g/group_g.png>] [16 </Users/cmutnik/work/g
+it/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.png>] [17 </Users/cmut
 nik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/group_m.png>]
-[17 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/low_sn
-r/group_low_SNR.png>] [18 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figure
-s/stacked_plots/g5v/g5v_HBC_649.png>] [19] [20 </Users/cmutnik/work/git/Spex-Yo
+[18 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/low_sn
+r/group_low_SNR.png>] [19 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figure
+s/stacked_plots/g5v/g5v_HBC_649.png>] [20] [21 </Users/cmutnik/work/git/Spex-Yo
 ung-Star-Atlas/figures/comparison/G2V/G2V_difference_observed_standard.png>]
-[21 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.p
+[22 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.p
 ng>] (./authorea_paper.aux) ) 
 Here is how much of TeX's memory you used:
  4263 strings out of 493089
- 63632 string characters out of 6134842
- 212636 words of memory out of 5000000
+ 63647 string characters out of 6134842
+ 213299 words of memory out of 5000000
  7548 multiletter control sequences out of 15000+600000
  12396 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -896,10 +931,10 @@ nts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 sy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9
 .pfb>
-Output written on authorea_paper.pdf (21 pages, 1194274 bytes).
+Output written on authorea_paper.pdf (22 pages, 1196857 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 154 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
