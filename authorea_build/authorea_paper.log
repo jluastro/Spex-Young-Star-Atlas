@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 16:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 16:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -736,27 +736,35 @@ Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
 ne 26.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
+ne 26.
+
+
+Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
+ne 28.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 48.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
  [4]
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
 
 Package natbib Warning: Citation `Rayner_2009' on page 5 undefined on input lin
-e 49.
+e 59.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
@@ -772,7 +780,7 @@ LaTeX Warning: Float too large for page by 230.80942pt on input line 60.
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Comparison_with_Models_section__
 .tex)
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_diffe
-rence_observed_standard.png, id=39, 578.16pt x 433.62pt>
+rence_observed_standard.png, id=40, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_
 difference_observed_standard.png Graphic file (type png)
 
@@ -797,7 +805,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.png, 
-id=40, 578.16pt x 433.62pt>
+id=41, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.
 png Graphic file (type png)
 
@@ -825,23 +833,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Package natbib Warning: Citation `Rayner_2003' on page 5 undefined on input lin
 e 12.
 
+[5]
 
-Package natbib Warning: Citation `Adam_Krauss_or_other_paper' on page 5 undefin
+Package natbib Warning: Citation `Adam_Krauss_or_other_paper' on page 6 undefin
 ed on input line 13.
 
 
-Package natbib Warning: Citation `Carpenter_2006' on page 5 undefined on input 
+Package natbib Warning: Citation `Carpenter_2006' on page 6 undefined on input 
 line 14.
 
 
-Package natbib Warning: Citation `Spex' on page 5 undefined on input line 15.
+Package natbib Warning: Citation `Spex' on page 6 undefined on input line 15.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-[5]
 
 Package natbib Warning: Citation `2mass_catalog_for_j_mags' on page 6 undefined
  on input line 16.
@@ -871,7 +879,7 @@ ng>] (./authorea_paper.aux) )
 Here is how much of TeX's memory you used:
  4266 strings out of 493089
  63741 string characters out of 6134842
- 213221 words of memory out of 5000000
+ 213195 words of memory out of 5000000
  7548 multiletter control sequences out of 15000+600000
  12396 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -890,7 +898,7 @@ nts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 sy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9
 .pfb>
-Output written on authorea_paper.pdf (21 pages, 1192980 bytes).
+Output written on authorea_paper.pdf (21 pages, 1194029 bytes).
 PDF statistics:
  151 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
