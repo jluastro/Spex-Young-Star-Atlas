@@ -1,9 +1,23 @@
 \subsection{Equivalent Widths}
 
-Following the procedure described by~\cite{Cushing_2005}, Equivalent width (EW) values and 
+\indent {\bf I)} Spectral features act as indicators of many stellar properties.  \\
+\indent {\bf II)} Stellar properties can be determined through analysis of spectral features.  \\
+\indent {\bf III)} Stellar properties, including spectral type, can be determined by analyzing spectral features.\\
+\indent {\bf IV)} Spectral type is one of the many stellar properties revealed through spectral feature analysis\\
+
+
+Stellar properties, including spectral type, can be determined by analyzing spectral features.
+The spectral features listed in Table~\ref{tab:features} 
+%were identified by~\cite{Rayner_2009}
+can be used to determine spectral types of cool 
+stars~\cite{Rayner_2009}.  Equivalent width (EW) 
+values of these features are given in Table~\ref{tab:EWvals}.  
+%Equations~\ref{eq:EW}~and~\ref{eq:EWvar} were used in calculating EW values and uncertainties, following the procedure described by~\cite{Cushing_2005}. 
+Following the procedure described by~\cite{Cushing_2005}, EW values, $EW$, and 
 variances, $\sigma_{EW}^{2}$, are given by
 %Calculation of equivalent width values was done using Equations~\ref{eq:EW}~and~\ref{eq:EWvar}~\cite{Cushing_2005}.
 %A more in-depth discussion of this procedure is given by~\cite{Cushing_2005}.  \cite{Sembach_1992}~discusses the technique used in estimating $f_{c}(\lambda_{i})$, $\sigma(\lambda_{i})$, and $\sigma_{c}(\lambda_{i})$.
+
 
 \begin{equation}\label{eq:EW}
 	EW = \sum_{i=1}^{n} \bigg[1 - \frac{f(\lambda_{i})}{f_{c}(\lambda_{i})} \bigg] \Delta\lambda_{i},
@@ -13,7 +27,7 @@ variances, $\sigma_{EW}^{2}$, are given by
 	\sigma_{EW}^{2} = \sum_{i=1}^{n} \Delta\lambda_{i}^{2} \bigg[ \frac{\sigma^{2}(\lambda_{i})}{f_{c}^{2}(\lambda_{i})} + \frac{f^{2}(\lambda_{i})}{f_{c}^{4}(\lambda_{i})}\sigma_{c}^{2}(\lambda_{i}) \bigg],
 \end{equation}
 
-\iffalse
+
 \noindent {\bf A)} where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
 and calculated continuum flux densities, respectively.  Uncertainties in the 
 observed and calculated continuum flux densities are $\sigma(\lambda_{i})$ and 
@@ -27,11 +41,14 @@ wavelength intervals in this fashion, $\lambda_{n}$ was appended to the
 end of the wavelength array, preserving dimensionality of the arrays.  
 This slight variation in methodology was shown to produce the same results.
 
+
+
 \noindent {\bf B)} where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
 and estimated continuum flux densities, respectively.  Uncertainties in the 
 observed and estimated continuum flux densities, $\sigma(\lambda_{i})$ and 
 $\sigma_{c}(\lambda_{i})$, were calculated following the procedure 
 of~\cite{Sembach_1992}.  
+
 
 	\indent {\bf 1)} $\Delta\lambda$ is the difference between subsequent 
 	wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.   
@@ -51,53 +68,29 @@ of~\cite{Sembach_1992}.
 	\indent {\bf 4)} With $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$, wavelength 
 	arrays weren't properly shaped.  Preservation of dimensionality was achieved 
 	by appending $\lambda_{n}$ to the end of each wavelength array.\\
-\fi
-
-where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
-and estimated continuum flux densities, respectively.  Uncertainties in the 
-observed and estimated continuum flux densities, $\sigma(\lambda_{i})$ and 
-$\sigma_{c}(\lambda_{i})$, were calculated following the procedure 
-of~\cite{Sembach_1992}.  $\Delta\lambda$ is the difference between subsequent 
-wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.   
-To preserve dimensionality, $\lambda_{n}$ was appended to the end of each 
-wavelength array, making $\lambda_{n+1} = \lambda_{n}$.
-
 
 
 Rather than subtracting adjacent intervals, 
 \cite{Sembach_1992} converted from wavelength to velocity--space and defined 
-$d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  
-%This slight variation in methodology was shown to produce the same results, within error.
-Validation of these procedures was accomplished by calculating EW values and 
+$d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  This slight variation in 
+methodology was shown to produce the same results, within error.
+
+
+
+Validation of this procedure was accomplished by calculating EW values and 
 uncertainties of existing spectral libraries\footnote{Table 9 of \cite{Rayner_2009}.}.  
-Calculated and published results were compared, showing both methodologies produce 
-the same results.  
 
 
 
-\iffalse
-\indent {\bf I)} Spectral features act as indicators of many stellar properties.  \\
-\indent {\bf II)} Stellar properties can be determined through analysis of spectral features.  \\
-\indent {\bf III)} Stellar properties, including spectral type, can be determined by analyzing spectral features. Absorption lines listed in Table~\ref{tab:features} can be used to determine spectral types of cool stars~\cite{Rayner_2009}. \\
-\indent {\bf IV)} Spectral type is one of the many stellar properties revealed through spectral feature analysis.  The spectral features listed in Table~\ref{tab:features} can be used to determine spectral types of cool stars~\cite{Rayner_2009}. \\
-\fi
-
-
-\indent Spectral features act as indicators of many stellar properties.    
-%Absorption lines listed in Table~\ref{tab:features} can be used in classifying spectral types of cool stars~\cite{Rayner_2009}.  
-The absorption lines listed in Table~\ref{tab:features} can be used to determine spectral types of cool stars~\cite{Rayner_2009}.  
-Equivalent width (EW) 
-values of these features are given in Table~\ref{tab:EWvals}.  
-%Equations~\ref{eq:EW}~and~\ref{eq:EWvar} were used in calculating EW values and uncertainties, following the procedure described by~\cite{Cushing_2005}. 
-
-
-\iffalse
 \noindent [CAN THIS BE EXPRESSED AS $\lambda_{i+1} - \lambda_{i} == \lambda_{i} - \lambda_{i-1}$]\\
 ~[THIS ACCOUNTS FOR SUM GOING FROM 0 TO n]
+
+
 
 %Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
 %~[what is the term used in paper matt sent]\\
 %$f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
+
 
 {\bf Procedure:}\\
 \begin{itemize}
@@ -107,6 +100,7 @@ values of these features are given in Table~\ref{tab:EWvals}.
 	\item{} Sum using Eq.~\ref{eq:EW}
 	\item{}~~~~~Note: sum from 1--N not 0--N
 \end{itemize}
+
 
 {\bf Notes:}\\
 \begin{itemize}
@@ -119,16 +113,15 @@ values of these features are given in Table~\ref{tab:EWvals}.
 	\item{} recalc using SS92 $\lambda_{i+\frac{1}{2}}$--$\lambda_{i-\frac{1}{2}}$
 	\item{}~~~~~do by using the full window to restrict values, then go from 1 to N in for loop
 \end{itemize}
-\fi
 
 
 
 
-{\bf Look at commented out lists above...and Discuss:}\\
+{\bf Discuss:}\\
 \begin{itemize}
-	\item{} which lines were chosen and why
-	\item{} how do the lines map to spt type...lum class
-	\item{} what features are for young stars?
+	\item{} discuss which lines were chosen and why
+	\item{} how do they map to spt type...lum class
+	\item{} what features are for young stars??
 \end{itemize}
 
 
