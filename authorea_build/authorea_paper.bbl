@@ -1,0 +1,38 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Carpenter} {et~al.}(2006){Carpenter}, {Hillenbrand}, {Mamajek},
+  {Meyer}, \& {Slesnick}}]{Carpenter_2006}
+{Carpenter}, J., {Hillenbrand}, L., {Mamajek}, E., {Meyer}, M., \& {Slesnick},
+  C. 2006, {Circumstellar Disks in the Upper Scorpius OB Association}, Spitzer
+  Proposal
+
+\bibitem[{Cushing {et~al.}(2005)Cushing, Rayner, \& Vacca}]{Cushing_2005}
+Cushing, M.~C., Rayner, J.~T., \& Vacca, W.~D. 2005, {ApJ}, 623, 1115
+
+\bibitem[{{Cushing} {et~al.}(2004){Cushing}, {Vacca}, \&
+  {Rayner}}]{Cushing_2004}
+{Cushing}, M.~C., {Vacca}, W.~D., \& {Rayner}, J.~T. 2004, \pasp, 116, 362
+
+\bibitem[{Rayner {et~al.}(2009)Rayner, Cushing, \& Vacca}]{Rayner_2009}
+Rayner, J.~T., Cushing, M.~C., \& Vacca, W.~D. 2009, {ApJS}, 185, 289
+
+\bibitem[{Rayner {et~al.}(2003)Rayner, Toomey, Onaka, Denault, Stahlberger,
+  Vacca, Cushing, \& Wang}]{Rayner_2003}
+Rayner, J.~T., Toomey, D.~W., Onaka, P.~M., {et~al.} 2003, Publications of the
+  Astronomical Society of the Pacific, 115, 362
+
+\bibitem[{{Rayner} {et~al.}(1998){Rayner}, {Toomey}, {Onaka}, {Denault},
+  {Stahlberger}, {Watanabe}, \& {Wang}}]{Rayner_1998}
+{Rayner}, J.~T., {Toomey}, D.~W., {Onaka}, P.~M., {et~al.} 1998, in \procspie,
+  Vol. 3354, Infrared Astronomical Instrumentation, ed. A.~M. {Fowler},
+  468--479
+
+\bibitem[{Sembach \& Savage(1992)}]{Sembach_1992}
+Sembach, K.~R., \& Savage, B.~D. 1992, {ApJS}, 83, 147
+
+\bibitem[{Vacca {et~al.}(2003)Vacca, Cushing, \& Rayner}]{Vacca_2003}
+Vacca, W.~D., Cushing, M.~C., \& Rayner, J.~T. 2003, Publications of the
+  Astronomical Society of the Pacific, 115, 389
+
+\end{thebibliography}

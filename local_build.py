@@ -50,6 +50,21 @@ FIGURE_TEMPLATE=r"""
 """.replace('{', '{{').replace('}', '}}').replace('<', '{').replace('>', '}')
 
 
+def copy_bst_files(localdir):
+    """ Copy all bst files from paper dir to authorea_build/"""
+    from glob import glob
+    import shutil
+
+    # make list of all .bst files
+    globpath = os.path.join(localdir, '*.bst')
+    filelist = glob(globpath)
+    print( filelist )
+
+    for bst in filelist:
+        shutil.copy(bst, 'authorea_build/')
+    return 0
+
+
 def get_input_string(filename, localdir):
     if filename.endswith('.tex'):
         filename = filename[:-4]
@@ -108,6 +123,9 @@ def build_authorea_latex(localdir, builddir, latex_exec, bibtex_exec, outname,
     if not os.path.isdir(builddir):
         raise IOError('Requested build directory {0} is a file, not a '
                       'directory'.format(builddir))
+
+    # copy all bst files into builddir
+    copy_bst_files(os.getcwd())
 
     # generate the main tex file as a string
     if os.path.exists('preamble.tex'):

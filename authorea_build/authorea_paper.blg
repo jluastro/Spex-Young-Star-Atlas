@@ -1,55 +1,57 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: authorea_paper.aux
-I couldn't open style file apj.bst
----line 2 of file authorea_paper.aux
- : \bibstyle{apj
- :              }
-I'm skipping whatever remains of this command
-White space in argument---line 15 of file authorea_paper.aux
- : \citation{Astrophysical
- :                         Quantities Ed4}
-I'm skipping whatever remains of this command
-I found no style file---while reading file authorea_paper.aux
-You've used 16 entries,
-            0 wiz_defined-function locations,
-            114 strings with 956 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
+The style file: apj.bst
+Database file #1: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/bibliography/biblio.bib
+Warning--I didn't find a database entry for "Pecaut_2012"
+Warning--I didn't find a database entry for "Ivanov_2004"
+Warning--I didn't find a database entry for "binary_guy"
+Warning--I didn't find a database entry for "Spextool_Manual_Cushing_2015"
+Warning--I didn't find a database entry for "Astrophysical_Quantities_Ed4"
+Warning--I didn't find a database entry for "simbad"
+Warning--I didn't find a database entry for "Adam_Krauss_or_other_paper"
+Warning--I didn't find a database entry for "Spex"
+Warning--I didn't find a database entry for "2mass_catalog_for_j_mags"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 8 entries,
+            3085 wiz_defined-function locations,
+            715 strings with 6322 characters,
+and the built_in function-call counts, 4183 in all, are:
+= -- 363
+> -- 302
+< -- 2
++ -- 104
+- -- 115
+* -- 356
+:= -- 772
+add.period$ -- 8
+call.type$ -- 8
+change.case$ -- 66
+chr.to.int$ -- 8
+cite$ -- 8
+duplicate$ -- 162
+empty$ -- 239
+format.name$ -- 122
+if$ -- 828
+int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+missing$ -- 6
+newline$ -- 28
+num.names$ -- 33
+pop$ -- 75
+preamble$ -- 1
+purify$ -- 66
 quote$ -- 0
-skip$ -- 0
+skip$ -- 132
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 179
+swap$ -- 10
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 72
 warning$ -- 0
-while$ -- 0
+while$ -- 33
 width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+write$ -- 83
+(There were 9 warnings)
