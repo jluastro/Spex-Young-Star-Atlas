@@ -3,7 +3,7 @@ Introduction.tex
 Observations_and_Data_Reduction.tex
 Sample_Selection.tex
 figures/histogram_of_classes/spectral_color/histogram_color_46total.png
-figures/histogram_of_classes/spectral_color/histogram_color_46total.png
+figures/SNR_brightness/snr_exptime.png
 Observations.tex
 tables/main_table.tex
 tables/table_notes.tex
