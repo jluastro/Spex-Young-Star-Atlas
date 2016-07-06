@@ -6,20 +6,23 @@ spectral features listed in Table~\ref{tab:features}
 can be used to determine spectral types of cool 
 stars~\cite{Rayner_2009}.  Equivalent width (EW) 
 values of these features are given in Table~\ref{tab:EWvals}.  
-Equations~\ref{eq:EW}~and~\ref{eq:EWvar} were used in calculating EW values 
-and uncertainties, following the procedure described by~\cite{Cushing_2005}. 
+%Equations~\ref{eq:EW}~and~\ref{eq:EWvar} were used in calculating EW values and uncertainties, following the procedure described by~\cite{Cushing_2005}. 
+Following the procedure described by~\cite{Cushing_2005}, EW values, $EW$, and 
+variances, $\sigma_{EW}^{2}$, are given by
 %Calculation of equivalent width values was done using Equations~\ref{eq:EW}~and~\ref{eq:EWvar}~\cite{Cushing_2005}.
 %A more in-depth discussion of this procedure is given by~\cite{Cushing_2005}.  \cite{Sembach_1992}~discusses the technique used in estimating $f_{c}(\lambda_{i})$, $\sigma(\lambda_{i})$, and $\sigma_{c}(\lambda_{i})$.
 
 
 \begin{equation}\label{eq:EW}
-	EW = \sum_{i=1}^{n} [1 - \frac{f(\lambda_{i})}{f_{c}(\lambda_{i})}] \Delta\lambda_{i}
+	EW = \sum_{i=1}^{n} \bigg[1 - \frac{f(\lambda_{i})}{f_{c}(\lambda_{i})} \bigg] \Delta\lambda_{i}
 \end{equation}
 
 \begin{equation}\label{eq:EWvar}
-	\sigma_{EW}^{2} = \sum_{i=1}^{n} \Delta\lambda_{i}^{2} [\frac{\sigma^{2}(\lambda_{i})}{f_{c}^{2}(\lambda_{i})} + \frac{f^{2}(\lambda_{i})}{f_{c}^{4}(\lambda_{i})}\sigma_{c}^{2}(\lambda_{i})],
+	\sigma_{EW}^{2} = \sum_{i=1}^{n} \Delta\lambda_{i}^{2} \bigg[ \frac{\sigma^{2}(\lambda_{i})}{f_{c}^{2}(\lambda_{i})} + \frac{f^{2}(\lambda_{i})}{f_{c}^{4}(\lambda_{i})}\sigma_{c}^{2}(\lambda_{i}) \bigg],
 \end{equation}
-where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
+
+
+\noindent where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
 and observed continuum flux densities, respectively.  Uncertainties in the 
 observed and continuum flux densities are $\sigma(\lambda_{i})$ and 
 $\sigma_{c}(\lambda_{i})$, respectively, were calculated following the procedure 

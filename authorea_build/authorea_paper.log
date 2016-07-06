@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -733,38 +733,38 @@ ne 10.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 26.
+ne 29.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 26.
+ne 29.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 28.
+ne 31.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 48.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
  [4]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
 Package natbib Warning: Citation `Rayner_2009' on page 5 undefined on input lin
-e 59.
+e 62.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
@@ -828,12 +828,11 @@ LaTeX Warning: Float too large for page by 135.77777pt on input line 128.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/needed_citations.tex
+(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/needed_citations.tex [5]
 
-Package natbib Warning: Citation `Rayner_2003' on page 5 undefined on input lin
+Package natbib Warning: Citation `Rayner_2003' on page 6 undefined on input lin
 e 12.
 
-[5]
 
 Package natbib Warning: Citation `Adam_Krauss_or_other_paper' on page 6 undefin
 ed on input line 13.
@@ -854,8 +853,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 Package natbib Warning: Citation `2mass_catalog_for_j_mags' on page 6 undefined
  on input line 16.
 
-) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/foo.tex) (./authorea_paper.bbl
-)
+) (./authorea_paper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
@@ -877,9 +875,9 @@ ung-Star-Atlas/figures/comparison/G2V/G2V_difference_observed_standard.png>]
 [21 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.p
 ng>] (./authorea_paper.aux) ) 
 Here is how much of TeX's memory you used:
- 4266 strings out of 493089
- 63741 string characters out of 6134842
- 213195 words of memory out of 5000000
+ 4263 strings out of 493089
+ 63632 string characters out of 6134842
+ 212636 words of memory out of 5000000
  7548 multiletter control sequences out of 15000+600000
  12396 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -898,7 +896,7 @@ nts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 sy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9
 .pfb>
-Output written on authorea_paper.pdf (21 pages, 1194307 bytes).
+Output written on authorea_paper.pdf (21 pages, 1194274 bytes).
 PDF statistics:
  151 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream

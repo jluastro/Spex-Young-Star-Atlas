@@ -26,4 +26,3 @@ Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
 figures/comparison/K5V/K5V.png
 needed_citations.tex
-foo.tex
