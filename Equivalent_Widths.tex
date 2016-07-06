@@ -14,24 +14,24 @@ variances, $\sigma_{EW}^{2}$, are given by
 \end{equation}
 
 \iffalse
-\noindent {\bf A)} where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
-and calculated continuum flux densities, respectively.  Uncertainties in the 
-observed and calculated continuum flux densities are $\sigma(\lambda_{i})$ and 
-$\sigma_{c}(\lambda_{i})$, respectively, were calculated following the procedure 
-described by~\cite{Sembach_1992}.  To estimate these values, \cite{Sembach_1992} 
-transformed from wavelength to velocity space.  Rather than subtracting adjacent intervals, 
-\cite{Sembach_1992} defined $d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  
-$\Delta\lambda$ is the difference between subsequent wavelength bins; 
-$\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.  To subtract adjacent 
-wavelength intervals in this fashion, $\lambda_{n}$ was appended to the 
-end of the wavelength array, preserving dimensionality of the arrays.  
-This slight variation in methodology was shown to produce the same results.
+	\noindent {\bf A)} where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
+	and calculated continuum flux densities, respectively.  Uncertainties in the 
+	observed and calculated continuum flux densities are $\sigma(\lambda_{i})$ and 
+	$\sigma_{c}(\lambda_{i})$, respectively, were calculated following the procedure 
+	described by~\cite{Sembach_1992}.  To estimate these values, \cite{Sembach_1992} 
+	transformed from wavelength to velocity space.  Rather than subtracting adjacent intervals, 
+	\cite{Sembach_1992} defined $d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  
+	$\Delta\lambda$ is the difference between subsequent wavelength bins; 
+	$\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.  To subtract adjacent 
+	wavelength intervals in this fashion, $\lambda_{n}$ was appended to the 
+	end of the wavelength array, preserving dimensionality of the arrays.  
+	This slight variation in methodology was shown to produce the same results.
 
-\noindent {\bf B)} where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
-and estimated continuum flux densities, respectively.  Uncertainties in the 
-observed and estimated continuum flux densities, $\sigma(\lambda_{i})$ and 
-$\sigma_{c}(\lambda_{i})$, were calculated following the procedure 
-of~\cite{Sembach_1992}.  
+	\noindent {\bf B)} where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
+	and estimated continuum flux densities, respectively.  Uncertainties in the 
+	observed and estimated continuum flux densities, $\sigma(\lambda_{i})$ and 
+	$\sigma_{c}(\lambda_{i})$, were calculated following the procedure 
+	of~\cite{Sembach_1992}.  
 
 	\indent {\bf 1)} $\Delta\lambda$ is the difference between subsequent 
 	wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.   
@@ -53,18 +53,17 @@ of~\cite{Sembach_1992}.
 	by appending $\lambda_{n}$ to the end of each wavelength array.\\
 \fi
 
-where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
+\noindent {\bf C)}\\
+\noindent where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
 and estimated continuum flux densities, respectively.  Uncertainties in the 
 observed and estimated continuum flux densities, $\sigma(\lambda_{i})$ and 
 $\sigma_{c}(\lambda_{i})$, were calculated following the procedure 
 of~\cite{Sembach_1992}.  $\Delta\lambda$ is the difference between subsequent 
 wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.   
 To preserve dimensionality, $\lambda_{n}$ was appended to the end of each 
-wavelength array, making $\lambda_{n+1} = \lambda_{n}$.
+wavelength array, such that $\lambda_{n} = \lambda_{n+1}$.
 
-
-
-Rather than subtracting adjacent intervals, 
+\indent Rather than subtracting adjacent intervals, 
 \cite{Sembach_1992} converted from wavelength to velocity--space and defined 
 $d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  
 %This slight variation in methodology was shown to produce the same results, within error.
@@ -74,12 +73,34 @@ Calculated and published results were compared, showing both methodologies produ
 the same results.  
 
 
+%%%%%%%------------------------------------------------------------------------------------------
+%\clearpage
+\vfill\eject
+\noindent {\bf D)\\$----------$}\\
+\noindent where $f(\lambda_{i})$ and $f_{c}(\lambda_{i})$ are the observed 
+and estimated continuum flux densities, respectively.  Uncertainties in the 
+observed and estimated continuum flux densities, $\sigma(\lambda_{i})$ and 
+$\sigma_{c}(\lambda_{i})$, were calculated following the procedure 
+of~\cite{Sembach_1992}.  After converting from wavelength to 
+velocity--space,~\cite{Sembach_1992} defined 
+$d\nu = \nu_{i+\frac{1}{2}} - \nu_{i-\frac{1}{2}}$.  
+Here, $\Delta\lambda$ is the difference between subsequent 
+wavelength intervals; $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$.
+To preserve dimensionality, $\lambda_{n}$ was appended to the end of each 
+wavelength array, such that $\lambda_{n+1} = \lambda_{n}$. Validation of this 
+procedure was accomplished by calculating $EW$ and $\sigma_{EW}$ for stars in 
+existing spectral libraries\footnote{Table 9 of \cite{Rayner_2009}.}.  Once calculated, 
+results were compared to published values.  Within error, both methods produce the same results.
+
+\noindent {\bf $----------$}
+%%%%%%%------------------------------------------------------------------------------------------
+
 
 \iffalse
-\indent {\bf I)} Spectral features act as indicators of many stellar properties.  \\
-\indent {\bf II)} Stellar properties can be determined through analysis of spectral features.  \\
-\indent {\bf III)} Stellar properties, including spectral type, can be determined by analyzing spectral features. Absorption lines listed in Table~\ref{tab:features} can be used to determine spectral types of cool stars~\cite{Rayner_2009}. \\
-\indent {\bf IV)} Spectral type is one of the many stellar properties revealed through spectral feature analysis.  The spectral features listed in Table~\ref{tab:features} can be used to determine spectral types of cool stars~\cite{Rayner_2009}. \\
+	\indent {\bf I)} Spectral features act as indicators of many stellar properties.  \\
+	\indent {\bf II)} Stellar properties can be determined through analysis of spectral features.  \\
+	\indent {\bf III)} Stellar properties, including spectral type, can be determined by analyzing spectral features. Absorption lines listed in Table~\ref{tab:features} can be used to determine spectral types of cool stars~\cite{Rayner_2009}. \\
+	\indent {\bf IV)} Spectral type is one of the many stellar properties revealed through spectral feature analysis.  The spectral features listed in Table~\ref{tab:features} can be used to determine spectral types of cool stars~\cite{Rayner_2009}. \\
 \fi
 
 
@@ -92,33 +113,33 @@ values of these features are given in Table~\ref{tab:EWvals}.
 
 
 \iffalse
-\noindent [CAN THIS BE EXPRESSED AS $\lambda_{i+1} - \lambda_{i} == \lambda_{i} - \lambda_{i-1}$]\\
-~[THIS ACCOUNTS FOR SUM GOING FROM 0 TO n]
+	\noindent [CAN THIS BE EXPRESSED AS $\lambda_{i+1} - \lambda_{i} == \lambda_{i} - \lambda_{i-1}$]\\
+	~[THIS ACCOUNTS FOR SUM GOING FROM 0 TO n]
 
-%Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
-%~[what is the term used in paper matt sent]\\
-%$f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
+	%Following the procedure outlined/discussed in~\cite{Cushing_2005}, the continuum limits were used in calculating a linear-fit.  For each $\lambda_{i}$ value\\
+	%~[what is the term used in paper matt sent]\\
+	%$f_{c}(\lambda_{i})$ was determined using the linear fit parameters.
 
-{\bf Procedure:}\\
-\begin{itemize}
-	\item{} Define spectral window
-	\item{} Estimate continuum
-	\item{}~~~~~Unweighted linear fit to 1st and 2nd Limits from Table~\ref{tab:features}
-	\item{} Sum using Eq.~\ref{eq:EW}
-	\item{}~~~~~Note: sum from 1--N not 0--N
-\end{itemize}
+	{\bf Procedure:}\\
+	\begin{itemize}
+		\item{} Define spectral window
+		\item{} Estimate continuum
+		\item{}~~~~~Unweighted linear fit to 1st and 2nd Limits from Table~\ref{tab:features}
+		\item{} Sum using Eq.~\ref{eq:EW}
+		\item{}~~~~~Note: sum from 1--N not 0--N
+	\end{itemize}
 
-{\bf Notes:}\\
-\begin{itemize}
-	\item{} Refining EW procedure involved
-	\item{} Validation of EW values was accomplished by first verifying published values~\cite{Rayner_2009}.
-	\item{} Discuss difference between Sembach and my method: $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$
-	\item{} accounts for sum going from 1 to n, rather than 0 to n
-	\item{} VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAUSES A DIFFERENCE OF 0
-	\item{}~~~~~(lamb[-1] - lamb[-1]= 0)
-	\item{} recalc using SS92 $\lambda_{i+\frac{1}{2}}$--$\lambda_{i-\frac{1}{2}}$
-	\item{}~~~~~do by using the full window to restrict values, then go from 1 to N in for loop
-\end{itemize}
+	{\bf Notes:}\\
+	\begin{itemize}
+		\item{} Refining EW procedure involved
+		\item{} Validation of EW values was accomplished by first verifying published values~\cite{Rayner_2009}.
+		\item{} Discuss difference between Sembach and my method: $\Delta\lambda = \lambda_{i+1} - \lambda_{i}$
+		\item{} accounts for sum going from 1 to n, rather than 0 to n
+		\item{} VERIFY THIS WORKS...STITCHING THE LAST WAVELENGTH VAL ON THE END CAUSES A DIFFERENCE OF 0
+		\item{}~~~~~(lamb[-1] - lamb[-1]= 0)
+		\item{} recalc using SS92 $\lambda_{i+\frac{1}{2}}$--$\lambda_{i-\frac{1}{2}}$
+		\item{}~~~~~do by using the full window to restrict values, then go from 1 to N in for loop
+	\end{itemize}
 \fi
 
 

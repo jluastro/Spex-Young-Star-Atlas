@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JUL 2016 03:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JUL 2016 10:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,9 +453,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
-)
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
+
+[3])
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/snr_expti
-me.png, id=21, 722.7pt x 722.7pt>
+me.png, id=24, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/snr_
 exptime.png Graphic file (type png)
 
@@ -480,7 +490,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/b/group_b.
-png, id=22, 722.7pt x 722.7pt>
+png, id=25, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/b/gro
 up_b.png Graphic file (type png)
 
@@ -509,7 +519,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/a/group_a.
-png, id=23, 722.7pt x 722.7pt>
+png, id=26, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/a/gro
 up_a.png Graphic file (type png)
 
@@ -538,7 +548,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/f/group_f.
-png, id=24, 722.7pt x 722.7pt>
+png, id=27, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/f/gro
 up_f.png Graphic file (type png)
 
@@ -567,7 +577,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g/group_g.
-png, id=25, 722.7pt x 722.7pt>
+png, id=28, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g/gro
 up_g.png Graphic file (type png)
 
@@ -596,7 +606,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.
-png, id=26, 722.7pt x 722.7pt>
+png, id=29, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/k/gro
 up_k.png Graphic file (type png)
 
@@ -625,7 +635,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/group_m.
-png, id=27, 722.7pt x 722.7pt>
+png, id=30, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/gro
 up_m.png Graphic file (type png)
 
@@ -654,7 +664,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/low_snr/gr
-oup_low_SNR.png, id=28, 722.7pt x 722.7pt>
+oup_low_SNR.png, id=31, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/low_s
 nr/group_low_SNR.png Graphic file (type png)
 
@@ -683,7 +693,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g5v/g5v_HB
-C_649.png, id=29, 722.7pt x 722.7pt>
+C_649.png, id=32, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g5v/g
 5v_HBC_649.png Graphic file (type png)
 
@@ -714,43 +724,55 @@ Overfull \hbox (110.92268pt too wide) in paragraph at lines 3--12
  []
 
 
-Package natbib Warning: Citation `Rayner_2009' on page 3 undefined on input lin
+Package natbib Warning: Citation `Rayner_2009' on page 4 undefined on input lin
 e 12.
 
-[3]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Equivalent_Widths.tex
+) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Equivalent_Widths.tex
 
 Package natbib Warning: Citation `Cushing_2005' on page 4 undefined on input li
 ne 3.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 60.
+ne 61.
 
 
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
-ne 68.
+ne 67.
 
 
 Package natbib Warning: Citation `Rayner_2009' on page 4 undefined on input lin
-e 72.
+e 71.
+
+[4]
+
+Package natbib Warning: Citation `Sembach_1992' on page 5 undefined on input li
+ne 84.
 
 
-Package natbib Warning: Citation `Rayner_2009' on page 4 undefined on input lin
-e 88.
+Package natbib Warning: Citation `Sembach_1992' on page 5 undefined on input li
+ne 85.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Package natbib Warning: Citation `Rayner_2009' on page 5 undefined on input lin
+e 92.
+
+
+Package natbib Warning: Citation `Rayner_2009' on page 5 undefined on input lin
+e 109.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
 
-[4]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 129.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 150.
 
- (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 129.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
 )
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/reproduce35_c
 utoff0_subplots_err.png, id=40, 722.7pt x 722.7pt>
@@ -847,8 +869,9 @@ ed on input line 13.
 Package natbib Warning: Citation `Carpenter_2006' on page 5 undefined on input 
 line 14.
 
+[5]
 
-Package natbib Warning: Citation `Spex' on page 5 undefined on input line 15.
+Package natbib Warning: Citation `Spex' on page 6 undefined on input line 15.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
@@ -856,10 +879,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
  []
 
 
-Package natbib Warning: Citation `2mass_catalog_for_j_mags' on page 5 undefined
+Package natbib Warning: Citation `2mass_catalog_for_j_mags' on page 6 undefined
  on input line 16.
 
-[5]) (./authorea_paper.bbl)
+) (./authorea_paper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
@@ -884,7 +907,7 @@ Atlas/figures/comparison/K5V/K5V.png>] (./authorea_paper.aux) )
 Here is how much of TeX's memory you used:
  4272 strings out of 493089
  64338 string characters out of 6134842
- 212263 words of memory out of 5000000
+ 214069 words of memory out of 5000000
  7553 multiletter control sequences out of 15000+600000
  12396 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -903,7 +926,7 @@ ist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on authorea_paper.pdf (22 pages, 1245420 bytes).
+Output written on authorea_paper.pdf (22 pages, 1247218 bytes).
 PDF statistics:
  156 PDF objects out of 1000 (max. 8388607)
  90 compressed objects within 1 object stream
