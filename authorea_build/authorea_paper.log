@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 JUL 2016 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,11 +340,11 @@ e 14.
 tex) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Sample_Selection.tex
 
 Package natbib Warning: Citation `binary_guy' on page 1 undefined on input line
- 27.
+ 24.
 
 
 Package natbib Warning: Citation `binary_guy' on page 1 undefined on input line
- 28.
+ 25.
 
 [1
 
@@ -395,7 +395,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--28
 Package natbib Warning: Citation `Cushing_2004' on page 2 undefined on input li
 ne 36.
 
-[2]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/main_table.tex
+) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/main_table.tex
 Overfull \hbox (657.58713pt too wide) in paragraph at lines 5--62
 [][] 
  []
@@ -403,7 +403,7 @@ Overfull \hbox (657.58713pt too wide) in paragraph at lines 5--62
 
 LaTeX Warning: Float too large for page by 220.93857pt on input line 62.
 
-) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/table_notes.tex
+[2]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/table_notes.tex
 
 Package natbib Warning: Citation `Astrophysical Quantities Ed4' on page 3 undef
 ined on input line 6.
@@ -712,7 +712,7 @@ Overfull \hbox (110.92268pt too wide) in paragraph at lines 3--12
 Package natbib Warning: Citation `Rayner_2009' on page 3 undefined on input lin
 e 12.
 
-[3]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Equivalent_Widths.tex
+) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Equivalent_Widths.tex [3]
 
 Package natbib Warning: Citation `Rayner_2009' on page 4 undefined on input lin
 e 8.
@@ -737,7 +737,7 @@ ne 32.
 Package natbib Warning: Citation `Sembach_1992' on page 4 undefined on input li
 ne 45.
 
-[4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
@@ -757,6 +757,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--66
 
  []
 
+[4]
 
 Package natbib Warning: Citation `Sembach_1992' on page 5 undefined on input li
 ne 69.
@@ -781,9 +782,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
-[5]
 
-Package natbib Warning: Citation `Rayner_2009' on page 6 undefined on input lin
+Package natbib Warning: Citation `Rayner_2009' on page 5 undefined on input lin
 e 103.
 
 
@@ -791,7 +791,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
-) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/EW_values.tex
+[5]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/EW_values.tex
 Overfull \hbox (828.41959pt too wide) in paragraph at lines 4--59
  [] 
  []
@@ -896,30 +896,33 @@ r/group_low_SNR.png>] [19 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figure
 s/stacked_plots/g5v/g5v_HBC_649.png>] [20] [21 </Users/cmutnik/work/git/Spex-Yo
 ung-Star-Atlas/figures/comparison/G2V/G2V_difference_observed_standard.png>]
 [22 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.p
-ng>] (./authorea_paper.aux) ) 
+ng>] (./authorea_paper.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  4263 strings out of 493089
  63647 string characters out of 6134842
- 213299 words of memory out of 5000000
+ 211979 words of memory out of 5000000
  7548 multiletter control sequences out of 15000+600000
  12396 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,28p,860b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr9.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9
-.pfb>
-Output written on authorea_paper.pdf (22 pages, 1197162 bytes).
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on authorea_paper.pdf (22 pages, 1196925 bytes).
 PDF statistics:
  154 PDF objects out of 1000 (max. 8388607)
  90 compressed objects within 1 object stream
