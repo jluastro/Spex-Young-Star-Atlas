@@ -16,9 +16,10 @@ figures/stacked_plots/a/group_a.png
 figures/stacked_plots/f/group_f.png
 figures/stacked_plots/g/group_g.png
 figures/stacked_plots/k/group_k.png
+figures/stacked_plots/other/low_snr/k_doubleCount
 figures/stacked_plots/m/group_m.png
-figures/stacked_plots/low_snr/group_low_SNR.png
-figures/stacked_plots/g5v/g5v_HBC_649.png
+figures/stacked_plots/other/low_snr/group_low_SNR.png
+figures/stacked_plots/other/g5v/g5v_HBC_649.png
 tables/EW_features_cool_stars.tex
 Equivalent_Widths.tex
 figures/EW_SptType/reproduce35_cutoff0_subplots_err.png
