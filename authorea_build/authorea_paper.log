@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JUL 2016 17:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  6 JUL 2016 17:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -223,7 +223,11 @@ Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ))
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/header.tex)
-(./authorea_paper.aux)
+(./authorea_paper.aux
+
+LaTeX Warning: Label `fig:stack-plot-k' multiply defined.
+
+)
 \openout1 = `authorea_paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -238,8 +242,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count115
 \scratchdimen=\dimen126
@@ -606,30 +609,38 @@ LaTeX Warning: Float too large for page by 180.56758pt on input line 84.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-! LaTeX Error: File `/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stac
-ked_plots/other/low_snr/k_doubleCount' not found.
+</Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/k_do
+ubleCount/group_k_doubleCount.png, id=30, 722.7pt x 722.7pt>
+File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
+/k_doubleCount/group_k_doubleCount.png Graphic file (type png)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.89 ...stacked_plots/other/low_snr/k_doubleCount}
-                                                  
-? R
-OK, entering \nonstopmode...
+<use /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/
+k_doubleCount/group_k_doubleCount.png>
+Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
+stacked_plots/other/k_doubleCount/group_k_doubleCount.png used on input line 89
+.
+(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
 
-(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/low_
-snr/caption.tex
+Overfull \hbox (32.12857pt too wide) in paragraph at lines 89--90
+ [] 
+ []
+
+
+(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/k_do
+ubleCount/caption.tex
 Missing character: There is no â in font cmbx10!
 Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
+LaTeX Warning: Float too large for page by 195.52766pt on input line 92.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/group_m.
-png, id=30, 722.7pt x 722.7pt>
+png, id=31, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/gro
 up_m.png Graphic file (type png)
 
@@ -658,7 +669,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/low_
-snr/group_low_SNR.png, id=31, 722.7pt x 722.7pt>
+snr/group_low_SNR.png, id=32, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
 /low_snr/group_low_SNR.png Graphic file (type png)
 
@@ -687,7 +698,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/g5v/
-g5v_HBC_649.png, id=32, 722.7pt x 722.7pt>
+g5v_HBC_649.png, id=33, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
 /g5v/g5v_HBC_649.png Graphic file (type png)
 
@@ -732,7 +743,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
 )
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/reproduce35_c
-utoff0_subplots_err.png, id=42, 722.7pt x 722.7pt>
+utoff0_subplots_err.png, id=43, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/reproduc
 e35_cutoff0_subplots_err.png Graphic file (type png)
 
@@ -765,7 +776,7 @@ LaTeX Warning: Float too large for page by 230.80942pt on input line 60.
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Comparison_with_Models_section__
 .tex)
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_diffe
-rence_observed_standard.png, id=43, 578.16pt x 433.62pt>
+rence_observed_standard.png, id=44, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_
 difference_observed_standard.png Graphic file (type png)
 
@@ -790,7 +801,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.png, 
-id=44, 578.16pt x 433.62pt>
+id=45, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.
 png Graphic file (type png)
 
@@ -845,24 +856,26 @@ _plots/b/group_b.png>] [14 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figur
 es/stacked_plots/a/group_a.png>] [15 </Users/cmutnik/work/git/Spex-Young-Star-A
 tlas/figures/stacked_plots/f/group_f.png>] [16 </Users/cmutnik/work/git/Spex-Yo
 ung-Star-Atlas/figures/stacked_plots/g/group_g.png>] [17 </Users/cmutnik/work/g
-it/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.png>] [18] [19 </Users
-/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/group_m.png>]
-[20 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/
-low_snr/group_low_SNR.png>] [21 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/
-figures/stacked_plots/other/g5v/g5v_HBC_649.png>] [22 </Users/cmutnik/work/git/
-Spex-Young-Star-Atlas/figures/EW_SptType/reproduce35_cutoff0_subplots_err.png>]
-[23] [24 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/
-G2V_difference_observed_standard.png>] [25 </Users/cmutnik/work/git/Spex-Young-
-Star-Atlas/figures/comparison/K5V/K5V.png>] (./authorea_paper.aux)
+it/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.png>] [18 </Users/cmut
+nik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/k_doubleCount/gr
+oup_k_doubleCount.png>] [19 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figu
+res/stacked_plots/m/group_m.png>] [20 </Users/cmutnik/work/git/Spex-Young-Star-
+Atlas/figures/stacked_plots/other/low_snr/group_low_SNR.png>] [21 </Users/cmutn
+ik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/g5v/g5v_HBC_649.p
+ng>] [22 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/repr
+oduce35_cutoff0_subplots_err.png>] [23] [24 </Users/cmutnik/work/git/Spex-Young
+-Star-Atlas/figures/comparison/G2V/G2V_difference_observed_standard.png>]
+[25 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.p
+ng>] (./authorea_paper.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4304 strings out of 493089
- 65127 string characters out of 6134842
- 214995 words of memory out of 5000000
- 7568 multiletter control sequences out of 15000+600000
+ 4297 strings out of 493089
+ 65646 string characters out of 6134842
+ 216336 words of memory out of 5000000
+ 7572 multiletter control sequences out of 15000+600000
  12088 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,28p,860b,278s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -878,10 +891,10 @@ texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on authorea_paper.pdf (25 pages, 1243145 bytes).
+Output written on authorea_paper.pdf (25 pages, 1353243 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
+ 164 PDF objects out of 1000 (max. 8388607)
  94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
