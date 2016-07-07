@@ -55,7 +55,7 @@ def copy_bst_files(localdir):
     from glob import glob
     import shutil
 
-    # make list of all .bst files
+    # make list of *.bst files
     globpath = os.path.join(localdir, '*.bst')
     filelist = glob(globpath)
     print( filelist )
