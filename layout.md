@@ -23,7 +23,7 @@ figures/stacked_plots/other/g5v/g5v_HBC_649.png
 tables/EW_features_cool_stars.tex
 Equivalent_Widths.tex
 figures/EW_SptType/obs/reproduce35_cutoff0_subplots_err.png
-figures/EW_SptType/obs_R09/EW_obs_calcR09_6suplots_err.png
+figures/EW_SptType/obs_R09/EW_obs_calcR09_err.png
 tables/EW_values.tex
 Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
