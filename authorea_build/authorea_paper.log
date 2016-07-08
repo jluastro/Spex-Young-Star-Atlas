@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 JUL 2016 21:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  7 JUL 2016 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -358,28 +358,18 @@ s/spectral_color/histogram_color_46total.png Graphic file (type png)
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 histogram_of_classes/spectral_color/histogram_color_46total.png used on input l
 ine 19.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 19--20
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/histogram_of_classes/spe
 ctral_color/caption.tex)
-
-LaTeX Warning: Float too large for page by 150.0391pt on input line 22.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Observations.tex
 Missing character: There is no â in font cmr10!
 Missing character: There is no ˆ in font cmr10!
 Missing character: There is no ¼ in font cmr10!
+ [2 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/histogram_of_classes
+/spectral_color/histogram_color_46total.png>]
 
-
-Package natbib Warning: Citation `Spextool_Manual_Cushing_2015' on page 2 undef
+Package natbib Warning: Citation `Spextool_Manual_Cushing_2015' on page 3 undef
 ined on input line 21.
 
 
@@ -387,7 +377,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--27
 
  []
 
-[2]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/main_table.tex
+) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/tables/main_table.tex
 Overfull \hbox (657.58713pt too wide) in paragraph at lines 5--62
 [][] 
  []
@@ -404,9 +394,9 @@ ined on input line 6.
 
 Package natbib Warning: Citation `simbad' on page 3 undefined on input line 6.
 
-)
+[3])
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/spex_uspex/single_stacke
-d_mask_tics.png, id=20, 722.7pt x 722.7pt>
+d_mask_tics.png, id=24, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/spex_uspex/single_s
 tacked_mask_tics.png Graphic file (type png)
 
@@ -414,16 +404,9 @@ tacked_mask_tics.png Graphic file (type png)
 acked_mask_tics.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 spex_uspex/single_stacked_mask_tics.png used on input line 31.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 31--32
- [] 
- []
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/spex_uspex/caption.tex)
-
-LaTeX Warning: Float too large for page by 150.0391pt on input line 34.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -433,14 +416,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[3]
+
 Underfull \hbox (badness 10000) in paragraph at lines 58--62
 
  []
 
 )
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/snr_expti
-me.png, id=24, 722.7pt x 722.7pt>
+me.png, id=25, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/snr_
 exptime.png Graphic file (type png)
 
@@ -448,24 +431,16 @@ exptime.png Graphic file (type png)
 xptime.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 SNR_brightness/snr_exptime.png used on input line 41.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 41--42
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/caption.t
 ex)
-
-LaTeX Warning: Float too large for page by 150.0391pt on input line 44.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/b/group_b.
-png, id=25, 722.7pt x 722.7pt>
+png, id=26, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/b/gro
 up_b.png Graphic file (type png)
 
@@ -473,12 +448,7 @@ up_b.png Graphic file (type png)
 p_b.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/b/group_b.png used on input line 49.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 49--50
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/b/caption.
 tex
@@ -487,14 +457,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 224.83951pt on input line 52.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/a/group_a.
-png, id=26, 722.7pt x 722.7pt>
+png, id=27, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/a/gro
 up_a.png Graphic file (type png)
 
@@ -502,12 +469,7 @@ up_a.png Graphic file (type png)
 p_a.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/a/group_a.png used on input line 57.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 57--58
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/a/caption.
 tex
@@ -516,14 +478,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 165.6075pt on input line 60.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/f/group_f.
-png, id=27, 722.7pt x 722.7pt>
+png, id=28, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/f/gro
 up_f.png Graphic file (type png)
 
@@ -531,12 +490,7 @@ up_f.png Graphic file (type png)
 p_f.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/f/group_f.png used on input line 65.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 65--66
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/f/caption.
 tex
@@ -545,14 +499,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 165.6075pt on input line 68.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g/group_g.
-png, id=28, 722.7pt x 722.7pt>
+png, id=29, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g/gro
 up_g.png Graphic file (type png)
 
@@ -560,12 +511,7 @@ up_g.png Graphic file (type png)
 p_g.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/g/group_g.png used on input line 73.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 73--74
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g/caption.
 tex
@@ -574,14 +520,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 165.6075pt on input line 76.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.
-png, id=29, 722.7pt x 722.7pt>
+png, id=30, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/k/gro
 up_k.png Graphic file (type png)
 
@@ -589,12 +532,7 @@ up_k.png Graphic file (type png)
 p_k.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/k/group_k.png used on input line 81.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 81--82
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/k/caption.
 tex
@@ -603,14 +541,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 180.56758pt on input line 84.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/k_do
-ubleCount/group_k_doubleCount.png, id=30, 722.7pt x 722.7pt>
+ubleCount/group_k_doubleCount.png, id=31, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
 /k_doubleCount/group_k_doubleCount.png Graphic file (type png)
 
@@ -619,12 +554,7 @@ k_doubleCount/group_k_doubleCount.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/other/k_doubleCount/group_k_doubleCount.png used on input line 89
 .
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 89--90
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/k_do
 ubleCount/caption.tex
@@ -633,14 +563,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 195.52766pt on input line 92.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/group_m.
-png, id=31, 722.7pt x 722.7pt>
+png, id=32, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/gro
 up_m.png Graphic file (type png)
 
@@ -648,12 +575,7 @@ up_m.png Graphic file (type png)
 p_m.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/m/group_m.png used on input line 97.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 97--98
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/caption.
 tex
@@ -662,14 +584,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 165.6075pt on input line 100.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/low_
-snr/group_low_SNR.png, id=32, 722.7pt x 722.7pt>
+snr/group_low_SNR.png, id=33, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
 /low_snr/group_low_SNR.png Graphic file (type png)
 
@@ -677,12 +596,7 @@ File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
 low_snr/group_low_SNR.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/other/low_snr/group_low_SNR.png used on input line 105.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 105--106
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/low_
 snr/caption.tex
@@ -691,14 +605,11 @@ Missing character: There is no € in font cmbx10!
 Missing character: There is no “ in font cmbx10!
 )
 
-LaTeX Warning: Float too large for page by 135.07901pt on input line 108.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/g5v/
-g5v_HBC_649.png, id=33, 722.7pt x 722.7pt>
+g5v_HBC_649.png, id=34, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
 /g5v/g5v_HBC_649.png Graphic file (type png)
 
@@ -706,18 +617,10 @@ File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other
 g5v/g5v_HBC_649.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 stacked_plots/other/g5v/g5v_HBC_649.png used on input line 113.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 113--114
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/g5v/
 caption.tex)
-
-LaTeX Warning: Float too large for page by 135.68733pt on input line 116.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -728,8 +631,13 @@ Overfull \hbox (110.92268pt too wide) in paragraph at lines 3--12
 [][] 
  []
 
-) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Equivalent_Widths.tex [4]
-[5]
+[4]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Equivalent_Widths.tex
+[5 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/spex_uspex/single_sta
+cked_mask_tics.png>] [6 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
+SNR_brightness/snr_exptime.png>] [7 </Users/cmutnik/work/git/Spex-Young-Star-At
+las/figures/stacked_plots/b/group_b.png>] [8 </Users/cmutnik/work/git/Spex-Youn
+g-Star-Atlas/figures/stacked_plots/a/group_a.png>] [9 </Users/cmutnik/work/git/
+Spex-Young-Star-Atlas/figures/stacked_plots/f/group_f.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 148--149
 
  []
@@ -741,9 +649,10 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
-)
+ [10 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/g/gro
+up_g.png>])
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/obs/reproduce
-35_cutoff0_subplots_err.png, id=43, 722.7pt x 722.7pt>
+35_cutoff0_subplots_err.png, id=66, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/obs/repr
 oduce35_cutoff0_subplots_err.png Graphic file (type png)
 
@@ -751,24 +660,16 @@ oduce35_cutoff0_subplots_err.png Graphic file (type png)
 duce35_cutoff0_subplots_err.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 EW_SptType/obs/reproduce35_cutoff0_subplots_err.png used on input line 123.
-(pdftex.def)             Requested size: 501.88356pt x 702.62817pt.
-
-Overfull \hbox (32.12857pt too wide) in paragraph at lines 123--124
- [] 
- []
-
+(pdftex.def)             Requested size: 250.94177pt x 351.31409pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/obs/caption.t
 ex)
-
-LaTeX Warning: Float too large for page by 135.07901pt on input line 126.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/obs_R09/EW_ob
-s_calcR09_err.png, id=44, 722.7pt x 722.7pt>
+s_calcR09_err.png, id=67, 722.7pt x 722.7pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/obs_R09/
 EW_obs_calcR09_err.png Graphic file (type png)
 
@@ -795,7 +696,7 @@ LaTeX Warning: Float too large for page by 230.80942pt on input line 60.
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/Comparison_with_Models_section__
 .tex)
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_diffe
-rence_observed_standard.png, id=45, 578.16pt x 433.62pt>
+rence_observed_standard.png, id=68, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_
 difference_observed_standard.png Graphic file (type png)
 
@@ -803,24 +704,16 @@ difference_observed_standard.png Graphic file (type png)
 ifference_observed_standard.png>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 comparison/G2V/G2V_difference_observed_standard.png used on input line 141.
-(pdftex.def)             Requested size: 501.87474pt x 702.71861pt.
-
-Overfull \hbox (32.11975pt too wide) in paragraph at lines 141--142
- [] 
- []
-
+(pdftex.def)             Requested size: 250.93295pt x 351.32953pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/caption.t
 ex)
-
-LaTeX Warning: Float too large for page by 135.77777pt on input line 144.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.png, 
-id=46, 578.16pt x 433.62pt>
+id=69, 578.16pt x 433.62pt>
 File: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/K5V.
 png Graphic file (type png)
 
@@ -828,65 +721,49 @@ png Graphic file (type png)
 ng>
 Package pdftex.def Info: /Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
 comparison/K5V/K5V.png used on input line 149.
-(pdftex.def)             Requested size: 501.87474pt x 702.71861pt.
-
-Overfull \hbox (32.11975pt too wide) in paragraph at lines 149--150
- [] 
- []
-
+(pdftex.def)             Requested size: 250.93295pt x 351.32953pt.
 
 (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/K5V/caption.t
 ex)
 
-LaTeX Warning: Float too large for page by 135.77777pt on input line 152.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/needed_citations.tex
+(/Users/cmutnik/work/git/Spex-Young-Star-Atlas/needed_citations.tex [11 </Users
+/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.png>]
 
-Package natbib Warning: Citation `Adam_Krauss_or_other_paper' on page 6 undefin
-ed on input line 13.
+Package natbib Warning: Citation `Adam_Krauss_or_other_paper' on page 12 undefi
+ned on input line 13.
 
-[6]
 
-Package natbib Warning: Citation `Spex' on page 7 undefined on input line 15.
+Package natbib Warning: Citation `Spex' on page 12 undefined on input line 15.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
+[12 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/
+k_doubleCount/group_k_doubleCount.png>]
 
-Package natbib Warning: Citation `2mass_catalog_for_j_mags' on page 7 undefined
- on input line 16.
+Package natbib Warning: Citation `2mass_catalog_for_j_mags' on page 13 undefine
+d on input line 16.
 
-) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/foo.tex) (./authorea_paper.bbl
-[7])
+[13 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/m/grou
+p_m.png>]) (/Users/cmutnik/work/git/Spex-Young-Star-Atlas/foo.tex)
+(./authorea_paper.bbl [14 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figure
+s/stacked_plots/other/low_snr/group_low_SNR.png>])
 
 Package natbib Warning: There were undefined citations.
 
-[8] [9 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/histogram_of_clas
-ses/spectral_color/histogram_color_46total.png>] [10] [11 </Users/cmutnik/work/
-git/Spex-Young-Star-Atlas/figures/spex_uspex/single_stacked_mask_tics.png>]
-[12 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/SNR_brightness/snr_e
-xptime.png>] [13 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked
-_plots/b/group_b.png>] [14 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figur
-es/stacked_plots/a/group_a.png>] [15 </Users/cmutnik/work/git/Spex-Young-Star-A
-tlas/figures/stacked_plots/f/group_f.png>] [16 </Users/cmutnik/work/git/Spex-Yo
-ung-Star-Atlas/figures/stacked_plots/g/group_g.png>] [17 </Users/cmutnik/work/g
-it/Spex-Young-Star-Atlas/figures/stacked_plots/k/group_k.png>] [18 </Users/cmut
-nik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/k_doubleCount/gr
-oup_k_doubleCount.png>] [19 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figu
-res/stacked_plots/m/group_m.png>] [20 </Users/cmutnik/work/git/Spex-Young-Star-
-Atlas/figures/stacked_plots/other/low_snr/group_low_SNR.png>] [21 </Users/cmutn
-ik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/g5v/g5v_HBC_649.p
-ng>] [22 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/obs/
-reproduce35_cutoff0_subplots_err.png>] [23 </Users/cmutnik/work/git/Spex-Young-
-Star-Atlas/figures/EW_SptType/obs_R09/EW_obs_calcR09_err.png>] [24] [25 </Users
-/cmutnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_difference_o
-bserved_standard.png>] [26 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figur
-es/comparison/K5V/K5V.png>] (./authorea_paper.aux)
+[15 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/stacked_plots/other/
+g5v/g5v_HBC_649.png>] [16
+
+ </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/EW_SptType/obs/reproduc
+e35_cutoff0_subplots_err.png>] [17] [18 </Users/cmutnik/work/git/Spex-Young-Sta
+r-Atlas/figures/EW_SptType/obs_R09/EW_obs_calcR09_err.png>] [19] [20 </Users/cm
+utnik/work/git/Spex-Young-Star-Atlas/figures/comparison/G2V/G2V_difference_obse
+rved_standard.png>] [21 </Users/cmutnik/work/git/Spex-Young-Star-Atlas/figures/
+comparison/K5V/K5V.png>] (./authorea_paper.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -894,7 +771,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  4306 strings out of 493089
  66352 string characters out of 6134842
- 217781 words of memory out of 5000000
+ 205470 words of memory out of 5000000
  7577 multiletter control sequences out of 15000+600000
  12088 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -911,10 +788,10 @@ texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/tex
 live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on authorea_paper.pdf (26 pages, 1495047 bytes).
+Output written on authorea_paper.pdf (21 pages, 1494374 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+ 153 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
