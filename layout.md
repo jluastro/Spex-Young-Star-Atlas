@@ -16,7 +16,6 @@ figures/stacked_plots/a/group_a.png
 figures/stacked_plots/f/group_f.png
 figures/stacked_plots/g/group_g.png
 figures/stacked_plots/k/group_k.png
-figures/stacked_plots/other/k_doubleCount/group_k_doubleCount.png
 figures/stacked_plots/m/group_m.png
 figures/stacked_plots/other/low_snr/group_low_SNR.png
 figures/stacked_plots/other/g5v/g5v_HBC_649.png
