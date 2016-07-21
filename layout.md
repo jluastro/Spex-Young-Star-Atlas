@@ -23,7 +23,7 @@ tables/EW_features_cool_stars.tex
 Equivalent_Widths.tex
 figures/EW_SptType/obs/reproduce35_cutoff0_subplots_err.png
 figures/EW_SptType/obs_R09/EW_obs_calcDwarfs_R09_err_160720.png
-tables/EW_values.tex
+tables/EW_values_precision.tex
 Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
 figures/comparison/K5V/K5V.png
