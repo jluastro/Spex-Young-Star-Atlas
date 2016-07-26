@@ -21,7 +21,7 @@ figures/stacked_plots/other/low_snr/group_low_SNR.png
 figures/stacked_plots/other/g5v/g5v_HBC_649.png
 tables/EW_features_cool_stars.tex
 Equivalent_Widths.tex
-figures/EW_SptType/obs_R09/EW_obs_calcDwarfs_R09_mg1tac5_160721.pdf
+figures/EW_SptType/obs_R09/EW_obs_calcDwarfs_R09_mg1tac5_160725.png
 tables/EW_values_precision.tex
 Comparison_with_Models_section__.tex
 figures/comparison/G2V/G2V_difference_observed_standard.png
